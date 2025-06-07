@@ -45,7 +45,7 @@
 
 ## 🤖 **AI DEVELOPER LICENSE** 🤖
 
-<table align="center" width="98%" style="max-width: 1400px; margin: 40px auto;">
+<table align="center" width="100%" style="margin: 40px auto;">
 <tr>
 <td bgcolor="#0a1929" style="padding: 60px; border: 4px solid #FFD700; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
 
@@ -85,7 +85,7 @@
 </tr>
 <tr>
 <td style="color: #FFD700; font-weight: bold; font-size: 20px;">⚡ Level:</td>
-<td style="color: #FFD700; font-size: 20px;">JedAI Master</td>
+<td style="color: #FFD700; font-size: 20px;">Expert Developer</td>
 </tr>
 <tr>
 <td style="color: #FFD700; font-weight: bold; font-size: 20px;">🌍 Base:</td>
