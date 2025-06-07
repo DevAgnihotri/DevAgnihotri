@@ -22,6 +22,12 @@
 
 </div>
 
+<!-- Beautiful Flashing Specialties Animation -->
+<p align="center">
+  <a href="https://github.com/DevAgnihotri">
+    <img src="https://readme-typing-svg.demolab.com/?lines=💻%20WEB%20DEVELOPER%20SPECIALIST;🤖%20AI%20OPERATIONS%20SPECIALIST;⚡%20FULL%20STACK%20ENGINEER;🌟%20MACHINE%20LEARNING%20EXPERT;🚀%20FIREBASE%20CLOUD%20MASTER;🔮%20REACT%20%26%20NEXT.JS%20NINJA;💎%20DATABASE%20ARCHITECT;🎯%20PROBLEM%20SOLVING%20EXPERT&font=Fira%20Code&center=true&width=600&height=50&color=00FF00&vCenter=true&pause=1500&size=22&background=000000" alt="Dev Specialties" /></a>
+</p>
+
 <!-- AI Developer License Card - Landscape Layout -->
 <div align="center">
 
@@ -35,7 +41,7 @@
 <tr>
 <!-- Left Side - Photo and Basic Info -->
 <td width="35%" align="center" bgcolor="#112240" style="padding: 30px; border-radius: 10px; border: 2px solid #00FF00;">
-<img src="./img/007.jfif" alt="Mr. AI-ncredible" height="200" style="border-radius: 10px; border: 3px solid #00FF00;"/>
+<img src="img/007.jfif" alt="Dev Agnihotri" height="220" style="border-radius: 10px; border: 3px solid #00FF00;"/>
 
 <h2 style="color: #00FF00; margin: 20px 0 10px 0;">MR. AI-NCREDIBLE</h2>
 <h3 style="color: #FFD700; margin: 5px 0;">THE JEDAI MASTER</h3>
@@ -77,22 +83,6 @@
 <td style="color: #00FF00; font-size: 16px;">India</td>
 </tr>
 </table>
-
-<br/>
-
-<h3 style="color: #00FF00; margin: 25px 0 15px 0;">🚀 AUTHORIZED OPERATIONS</h3>
-<div style="background: rgba(0, 255, 0, 0.1); padding: 20px; border-radius: 8px; border-left: 4px solid #00FF00;">
-✅ **AI Agent Development**<br/>
-✅ **Machine Learning Integration**<br/>
-✅ **Full-Stack Web Applications**<br/>
-✅ **Firebase Cloud Operations**<br/>
-✅ **Advanced Database Management**<br/>
-✅ **React & Next.js Applications**
-</div>
-
-<div align="center" style="margin-top: 25px;">
-<h3 style="color: #FFD700; font-style: italic;">⚡ "The Force is Strong with This Code" ⚡</h3>
-</div>
 
 </td>
 </tr>
@@ -369,11 +359,11 @@
   <h2>🎰 Casino Royale Operations Gallery 🎰</h2>
   <p><em>Intelligence imagery from high-stakes operations</em></p>
   <br/>
-  <img src="./img/007 card.jfif" alt="Agent 007 Card" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
-  <img src="./img/card1.jfif" alt="Casino Card 1" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
-  <img src="./img/card2.jfif" alt="Casino Card 2" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
-  <img src="./img/card3.jfif" alt="Casino Card 3" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
-  <img src="./img/poster.jfif" alt="Mission Poster" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/007 card.jfif" alt="Agent 007 Card" height="220" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card1.jfif" alt="Casino Card 1" height="220" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card2.jfif" alt="Casino Card 2" height="220" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card3.jfif" alt="Casino Card 3" height="220" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/poster.jfif" alt="Mission Poster" height="220" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/🎯%20HIGH%20STAKES%20OPERATIONS%20🎯-CLASSIFIED-D4AF37?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="High Stakes Operations"/>
 </div>
@@ -402,22 +392,11 @@
   <p align="center">
     <b>⚠️ CLASSIFIED:</b> Performance metrics reflect only declassified operations and public intelligence.
   </p>
-  
-  <p align="center">
+    <p align="center">
     <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
       <img alt="Dev Agnihotri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DevAgnihotri&bg_color=000000&color=D4AF37&line=FFD700&point=FFFFFF&hide_border=true" />
     </a>
   </p>
-  <h3>⚡ Recent Mission Activity</h3>
-
-  <!--START_SECTION:activity-->
-
-1. 🎯 **TARGET ACQUIRED**: Advanced AI agent deployment successful
-2. 🔍 **INTELLIGENCE GATHERED**: Firebase cloud infrastructure secured
-3. 💻 **CODE DEPLOYED**: High-performance web applications live
-4. 🛡️ **SECURITY PROTOCOL**: All systems fortified, threats neutralized
-5. 🌐 **MISSION COMPLETE**: Digital operations running at full capacity
-<!--END_SECTION:activity-->
 
   <!-- Casino Divider -->
   <div align="center" style="margin: 30px 0;">
