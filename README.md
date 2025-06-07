@@ -22,38 +22,81 @@
 
 </div>
 
-<!-- AI Developer License Card -->
+<!-- AI Developer License Card - Landscape Layout -->
 <div align="center">
 
 ## 🤖 **AI DEVELOPER LICENSE** 🤖
 
-<table align="center">
+<table align="center" width="90%" style="max-width: 900px;">
 <tr>
-<td bgcolor="#001122" style="padding: 20px; border: 3px solid #00FF00;">
+<td bgcolor="#0a1929" style="padding: 40px; border: 4px solid #00FF00; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
 
-<div align="center">
-<img src="./img/007.jfif" alt="Mr. AI-ncredible" height="120"/>
+<table width="100%" cellpadding="20" cellspacing="0">
+<tr>
+<!-- Left Side - Photo and Basic Info -->
+<td width="35%" align="center" bgcolor="#112240" style="padding: 30px; border-radius: 10px; border: 2px solid #00FF00;">
+<img src="./img/007.jfif" alt="Mr. AI-ncredible" height="200" style="border-radius: 10px; border: 3px solid #00FF00;"/>
 
-### **MR. AI-NCREDIBLE**
+<h2 style="color: #00FF00; margin: 20px 0 10px 0;">MR. AI-NCREDIBLE</h2>
+<h3 style="color: #FFD700; margin: 5px 0;">THE JEDAI MASTER</h3>
 
-### **THE JEDAI MASTER**
+<img src="https://img.shields.io/badge/🤖%20STATUS%20🤖-ACTIVE%20JEDAI-00FF00?style=for-the-badge&logo=verified&logoColor=black&labelColor=000033" alt="Active Status" height="40"/>
+</td>
 
-**🆔 License ID:** `AI-007-JEDAI`  
-**🤖 Type:** `FULL-STACK AI SPECIALIST`  
-**⚡ Level:** `JEDAI MASTER`  
-**🌍 Base:** `India`
+<!-- Spacer -->
+<td width="5%"></td>
 
-**🚀 Authorized For:**  
-✅ AI Agent Development  
-✅ Machine Learning Integration  
-✅ Full-Stack Web Applications  
-✅ Firebase Cloud Operations
+<!-- Right Side - License Details -->
+<td width="60%" bgcolor="#0f1419" style="padding: 30px; border-radius: 10px; border: 2px solid #00FF00;">
 
-**⚡ "The Force is Strong with This Code" ⚡**
+<h3 style="color: #00FF00; margin-bottom: 25px;">📋 DEVELOPER CREDENTIALS</h3>
 
-<img src="https://img.shields.io/badge/🤖%20STATUS%20🤖-ACTIVE%20JEDAI-00FF00?style=for-the-badge&logo=verified&logoColor=black&labelColor=000033" alt="Active Status" height="35"/>
+<table width="100%" cellpadding="8" cellspacing="0">
+<tr>
+<td width="30%" style="color: #FFD700; font-weight: bold;">🆔 License ID:</td>
+<td style="color: #00FF00; font-family: monospace; font-size: 16px;">AI-007-JEDAI</td>
+</tr>
+<tr>
+<td style="color: #FFD700; font-weight: bold;">👤 Age:</td>
+<td style="color: #00FF00; font-size: 16px;">22 Years</td>
+</tr>
+<tr>
+<td style="color: #FFD700; font-weight: bold;">🎓 Education:</td>
+<td style="color: #00FF00; font-size: 16px;">Post Graduate</td>
+</tr>
+<tr>
+<td style="color: #FFD700; font-weight: bold;">🤖 Speciality:</td>
+<td style="color: #00FF00; font-size: 16px;">Full-Stack AI Specialist</td>
+</tr>
+<tr>
+<td style="color: #FFD700; font-weight: bold;">⚡ Level:</td>
+<td style="color: #00FF00; font-size: 16px;">JedAI Master</td>
+</tr>
+<tr>
+<td style="color: #FFD700; font-weight: bold;">🌍 Base:</td>
+<td style="color: #00FF00; font-size: 16px;">India</td>
+</tr>
+</table>
 
+<br/>
+
+<h3 style="color: #00FF00; margin: 25px 0 15px 0;">🚀 AUTHORIZED OPERATIONS</h3>
+<div style="background: rgba(0, 255, 0, 0.1); padding: 20px; border-radius: 8px; border-left: 4px solid #00FF00;">
+✅ **AI Agent Development**<br/>
+✅ **Machine Learning Integration**<br/>
+✅ **Full-Stack Web Applications**<br/>
+✅ **Firebase Cloud Operations**<br/>
+✅ **Advanced Database Management**<br/>
+✅ **React & Next.js Applications**
 </div>
+
+<div align="center" style="margin-top: 25px;">
+<h3 style="color: #FFD700; font-style: italic;">⚡ "The Force is Strong with This Code" ⚡</h3>
+</div>
+
+</td>
+</tr>
+</table>
 
 </td>
 </tr>
@@ -326,11 +369,11 @@
   <h2>🎰 Casino Royale Operations Gallery 🎰</h2>
   <p><em>Intelligence imagery from high-stakes operations</em></p>
   <br/>
-  <img src="./img/007 card.jfif" alt="Agent 007 Card" height="180" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
-  <img src="./img/card1.jfif" alt="Casino Card 1" height="180" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
-  <img src="./img/card2.jfif" alt="Casino Card 2" height="180" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
-  <img src="./img/card3.jfif" alt="Casino Card 3" height="180" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
-  <img src="./img/poster.jfif" alt="Mission Poster" height="180" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/007 card.jfif" alt="Agent 007 Card" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card1.jfif" alt="Casino Card 1" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card2.jfif" alt="Casino Card 2" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card3.jfif" alt="Casino Card 3" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/poster.jfif" alt="Mission Poster" height="200" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
   <br/><br/>
   <img src="https://img.shields.io/badge/🎯%20HIGH%20STAKES%20OPERATIONS%20🎯-CLASSIFIED-D4AF37?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="High Stakes Operations"/>
 </div>
