@@ -1,29 +1,18 @@
 <!-- SECRET AGENT PROFILE: CLASSIFIED -->
 <!-- CASINO ROYALE DOSSIER -->
-
-<div align="center">
-  
-<!-- Casino Royale Hero Section -->
-<img src="./img/casino.jfif" alt="Casino Royale Operations Center" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
-
 <p align="center">
   <a href="https://github.com/DevAgnihotri">
     <img src="https://readme-typing-svg.demolab.com/?lines=CLASSIFIED:%20AGENT%20007;Casino%20Royale%20Operations;Web%20Development%20Specialist;AI%20Intelligence%20Operative;Firebase%20Cloud%20Operations;License%20to%20Code&font=Consolas&center=true&width=600&height=80&color=D4AF37&vCenter=true&pause=1000&size=24&background=000000" alt="Agent 007 - Dev Agnihotri" /></a>
 </p>
 
-<!-- Agent Profile with Portrait Images -->
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin: 20px 0;">
-  <img src="./img/007.jfif" alt="Agent 007" height="150" style="border-radius: 8px;"/>
-  <div>
-    <h3>🎰 **AGENT PROFILE: DEV AGNIHOTRI** 🎰</h3>
-    <p><strong>Classification Level: TOP SECRET</strong><br/>
-    <strong>Codename: 007</strong><br/>
-    <strong>Mission Location: Casino Royale</strong><br/>
-    <strong>Specialization: Web Development & AI Operations</strong><br/>
-    <strong>🃏 High Stakes Technology 🃏</strong></p>
-  </div>
-  <img src="./img/bond.jfif" alt="James Bond Style" height="150" style="border-radius: 8px;"/>
-</div>
+<div align="center">
+  
+### 🎰 **AGENT PROFILE: DEV AGNIHOTRI** 🎰
+**Classification: TOP SECRET**  
+**Codename: 007**  
+**Mission: Casino Royale Operations**  
+**Specialization: Web Development & AI Systems**  
+**🃏 High Stakes Technology 🃏**
 
 </div>
 
@@ -34,9 +23,17 @@
   <img src="https://img.shields.io/badge/🍸%20LICENSE%20TO%20CODE%20🍸-GRANTED-FFD700?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" alt="License to Code"/>
 </p>
 
-<p align="center">  <!-- Typing SVG for James Bond Casino Royale style -->
-  <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🎰%20Casino%20Royale%20Developer;🃏%20High%20Stakes%20Technology;🍸%20Shaken%2C%20not%20stirred%20code;🎲%20Firebase%20Cloud%20Operations;🤖%20AI%20Agent%20Specialist;♠️%20Always%20bet%20on%20clean%20code&font=Fira%20Code&center=true&width=500&height=45&color=D4AF37&vCenter=true&pause=1200&size=20&background=1a1a1a" /></a>
+<!-- Casino Operations Gallery -->
+<div align="center" style="margin: 20px 0;">
+  <img src="./img/007 card.jfif" alt="Agent Card" height="80" style="margin: 0 10px; border-radius: 8px;"/>
+  <img src="./img/card1.jfif" alt="Casino Card 1" height="80" style="margin: 0 10px; border-radius: 8px;"/>
+  <img src="./img/card2.jfif" alt="Casino Card 2" height="80" style="margin: 0 10px; border-radius: 8px;"/>
+  <img src="./img/card3.jfif" alt="Casino Card 3" height="80" style="margin: 0 10px; border-radius: 8px;"/>
+  <img src="./img/poster.jfif" alt="Mission Poster" height="80" style="margin: 0 10px; border-radius: 8px;"/>
+</div>
+
+<p align="center">  <!-- Typing SVG for James Bond Casino Royale style -->  <a href="https://github.com/DevAgnihotri">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🎰%20Casino%20Royale%20Developer;🃏%20High%20Stakes%20Technology;🍸%20Clean%20Code%20Operations;🎲%20Firebase%20Cloud%20Systems;🤖%20AI%20Intelligence%20Network;♠️%20Precision%20Engineering&font=Fira%20Code&center=true&width=500&height=45&color=D4AF37&vCenter=true&pause=1200&size=20&background=1a1a1a" /></a>
 </p>
 
 <!-- Social Network (Secret Communication Channels) -->
@@ -53,12 +50,27 @@
 
 <br/>
 
+<!-- Web Technology Stack -->
+<p align="center">
+  <strong>🌐 DEPLOYED WEB TECHNOLOGY ARSENAL 🌐</strong><br/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
+</p>
+
+<br/>
+
 <!-- Intelligence Stats -->
 <p align="center">
   <a href="https://github.com/DevAgnihotri?tab=repositories&sort=stargazers">
     <img alt="Total Missions Completed" title="Total GitHub Projects" src="https://custom-icon-badges.demolab.com/github/stars/DevAgnihotri?color=D4AF37&style=for-the-badge&labelColor=000000&logo=star&label=MISSIONS%20STARRED"/></a>
-  <a href="https://github.com/DevAgnihotri?tab=followers">
-    <img alt="Agents Following" title="GitHub Followers" src="https://custom-icon-badges.demolab.com/github/followers/DevAgnihotri?color=8B0000&labelColor=000000&style=for-the-badge&logo=person-add&label=AGENTS&logoColor=white"/></a>
+  <a href="https://github.com/DevAgnihotri?tab=repositories">
+    <img alt="Total Repositories" title="GitHub Repositories" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/DevAgnihotri&query=$.public_repos&color=8B0000&labelColor=000000&style=for-the-badge&logo=repo&label=REPOSITORIES&logoColor=white"/></a>
   <img alt="Classified Intel" title="Profile Views (Classified)" src="https://img.shields.io/badge/CLASSIFIED-INTEL-1F1F1F?style=for-the-badge&logo=eye&logoColor=D4AF37&labelColor=000000" alt="profile views"/>
 </p>
 
@@ -194,12 +206,6 @@
 <details open> 
   <summary><h2>🛠️ Agent's Arsenal (Technical Skills)</h2></summary>
 
-  <!-- Casino Gaming Elements -->
-  <div align="center" style="margin: 20px 0;">
-    <img src="./img/007 card.jfif" alt="Agent's Poker Hand" height="100" style="margin: 0 10px; border-radius: 8px;"/>
-    <img src="./img/poster.jfif" alt="Casino Royale Mission" height="100" style="margin: 0 10px; border-radius: 8px;"/>
-  </div>
-
   <h3>💻 Programming Languages & Markup</h3>
   <p>
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge"></a>
@@ -322,17 +328,17 @@
 
 ### 🎰 "The name's Agnihotri. Dev Agnihotri." 🎰
 
-<!-- Casino Royale Roulette -->
-<img src="./img/Spin Roulette.jfif" alt="Casino Royale Roulette" width="300" style="border-radius: 15px; margin: 20px 0;"/>
+<!-- Agent 007 Portrait -->
+<img src="./img/007.jfif" alt="Agent 007" height="120" style="border-radius: 15px; margin: 20px 0;"/>
 
 <!-- Casino Royale themed footer -->
 <p align="center">
   🎰 <img src="https://img.shields.io/badge/🃏%20License%20to%20Code%20🃏-GRANTED-D4AF37?style=for-the-badge&logo=shield&logoColor=black&labelColor=000000" alt="License to Code"/> 🎰
 </p>
 
-**🍸 "Precision under pressure. Clean code, no bluffs." 🍸**  
-**🎲 High Stakes Development. Higher Code Quality. 🎲**  
-**♠️ Fast as lightning. Sharp as a blade. Straight as an arrow. ♠️**
+**🍸 Fast. Precise. Professional.** 🍸  
+**🎲 High-performance development. Premium code quality.** 🎲  
+**♠️ Straight to the point. No bluff. Just results.** ♠️
 
 </div>
 
