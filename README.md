@@ -300,17 +300,17 @@ _Classified learning materials and specialized training programs from elite acad
 </details>
 
 <details open> 
-  <summary><h2>🤝 Open Source & Community Projects</h2></summary>
-  <p align="left">
-    <a href="https://github.com/DevAgnihotri/Open-Source-Contributions"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Open-Source-Contributions&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Open Source Contributions"></a>
-    <a href="https://github.com/DevAgnihotri/Community-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Community-Projects&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Community Projects"></a>
-  </p>
-  <p align="center">
-    <strong>🌟 COLLABORATIVE DEVELOPMENT PROJECTS 🌟</strong><br/>
-    <em>Building innovative solutions through community collaboration</em>
-  </p>
+    <summary><h2>🤝 Open Source & Community Projects</h2></summary>
+    <p align="left">
+      <a href="https://github.com/DevAgnihotri/Open-Source-Contributions"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Open-Source-Contributions&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Open Source Contributions"></a>
+      <a href="https://github.com/DevAgnihotri/Community-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Community-Projects&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Community Projects"></a>
+    </p>
+    <p align="center">
+      <strong>🌟 COLLABORATIVE DEVELOPMENT PROJECTS 🌟</strong><br/>
+      <em>Building innovative solutions through community collaboration</em>
+    </p>
 
-<a href="https://github.com/DevAgnihotri?tab=repositories"><img alt="All Repositories" title="View All Public Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-000000?style=for-the-badge&logoColor=FFD700&logo=git-branch&labelColor=8B0000"/></a>
+  <a href="https://github.com/DevAgnihotri?tab=repositories"><img alt="All Repositories" title="View All Public Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-000000?style=for-the-badge&logoColor=FFD700&logo=git-branch&labelColor=8B0000"/></a>
 
 </details>
 
@@ -455,11 +455,11 @@ _Classified learning materials and specialized training programs from elite acad
 ### 🎰 "The name's Agnihotri. Dev Agnihotri." 🎰
 
 <!-- Agent 007 Portrait -->
-<img src="./img/007.jfif" alt="Agent 007" height="120" style="border-radius: 15px; margin: 20px 0;"/>
+<img src="./img/007.jfif" alt="Agent 007" height="320" style="border-radius: 15px; margin: 20px 0;"/>
 
 <!-- Casino Royale themed footer -->
 <p align="center">
-  🎰 <img src="https://img.shields.io/badge/🃏%20License%20to%20Code%20🃏-GRANTED-FFD700?style=for-the-badge&logo=shield&logoColor=black&labelColor=000000" alt="License to Code"/> 🎰
+  🎰 <img src="https://img.shields.io/badge/🃏%20License%20to%20Code%20🃏-GRANTED-FFD700?style=for-the-badge&logo=shield&logoColor=black&labelColor=000000" height="320" alt="License to Code"/> 🎰
 </p>
 
 **🍸 Fast. Precise. Professional.** 🍸  
