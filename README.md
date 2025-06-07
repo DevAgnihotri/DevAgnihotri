@@ -44,7 +44,6 @@
 <img src="img/007 card.jfif" alt="Dev Agnihotri" height="240" style="border-radius: 10px; border: 3px solid #00FF00;"/>
 
 <h2 style="color: #00FF00; margin: 20px 0 10px 0;">DEV AGNIHOTRI</h2>
-<h3 style="color: #FFD700; margin: 5px 0;">THE JEDAI MASTER</h3>
 
 <img src="https://img.shields.io/badge/🤖%20STATUS%20🤖-ACTIVE%20JEDAI-00FF00?style=for-the-badge&logo=verified&logoColor=black&labelColor=000033" alt="Active Status" height="40"/>
 </td>
@@ -100,11 +99,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/⚡%20FULL%20STACK%20⚡-JEDAI%20MASTER-FFD700?style=for-the-badge&logo=lightning&logoColor=black&labelColor=8B0000" alt="JedAI Master" height="40"/>
   <img src="https://img.shields.io/badge/🌟%20AI%20FORCE%20🌟-UNLIMITED-D4AF37?style=for-the-badge&logo=star&logoColor=black&labelColor=000000" alt="AI Force" height="40"/>
-</p>
-
-<p align="center">
-  <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20Dev%20Agnihotri%20The%20JedAI;⚡%20Full%20Stack%20JedAI%20Master;🌟%20AI-Powered%20Web%20Applications;🚀%20Firebase%20%26%20Cloud%20Mastery;🔮%20Machine%20Learning%20Integration;🌟%20The%20Force%20is%20Strong%20with%20Code&font=Fira%20Code&center=true&width=600&height=45&color=00FF00&vCenter=true&pause=1200&size=20&background=000000" alt="Dev Agnihotri Skills" /></a>
 </p>
 
 <!-- Social Network (Secret Communication Channels) -->
