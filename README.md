@@ -43,63 +43,61 @@
 <!-- AI Developer License Card - Landscape Layout -->
 <div align="center">
 
-## 🤖 **LICENSE TO CODE** 🤖
+  ## 🤖 **LICENSE TO CODE** 🤖
 
-<table align="center" width="100%" style="margin: 40px auto;">
-<tr>
-<td bgcolor="#0a1929" style="padding: 60px; border: 4px solid #FFD700; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
+  <table align="center" width="100%" style="margin: 40px auto;">
+    <tr>
+      <td bgcolor="#0a1929" style="padding: 60px; border: 4px solid #FFD700; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
 
-<table width="100%" cellpadding="40" cellspacing="0">
-<tr>
-<!-- Left Side - Photo and Basic Info -->
-<td width="30%" align="center" bgcolor="#112240" style="padding: 50px; border-radius: 10px; border: 2px solid #FFD700;">
-<img src="img/007 card.jfif" alt="Dev Agnihotri" height="260" style="border-radius: 10px; border: 3px solid #FFD700;"/>
+        <table width="100%" cellpadding="40" cellspacing="0">
+          <tr>
+            <!-- Left Side - Photo and Basic Info -->
+            <td width="30%" align="center" bgcolor="#112240" style="padding: 50px; border-radius: 10px; border: 2px solid #FFD700;">
+              <img src="img/007 card.jfif" alt="Dev Agnihotri" height="260" style="border-radius: 10px; border: 3px solid #FFD700;"/>
+              <h2 style="color: #FFD700; margin: 25px 0 15px 0;">DEV AGNIHOTRI</h2>
+            </td>
 
-<h2 style="color: #FFD700; margin: 25px 0 15px 0;">DEV AGNIHOTRI</h2>
-</td>
+            <!-- Spacer -->
+            <td width="5%"></td>
 
-<!-- Spacer -->
-<td width="5%"></td>
+            <!-- Right Side - License Details -->
+            <td width="65%" bgcolor="#0f1419" style="padding: 50px; border-radius: 10px; border: 2px solid #FFD700;">
+              <h3 style="color: #FFD700; margin-bottom: 35px; font-size: 22px;">📋 DEVELOPER CREDENTIALS</h3>
 
-<!-- Right Side - License Details -->
-<td width="65%" bgcolor="#0f1419" style="padding: 50px; border-radius: 10px; border: 2px solid #FFD700;">
+              <table width="100%" cellpadding="15" cellspacing="0" style="margin: 10px 0;">
+                <tr>
+                  <td width="35%" style="color: #FFD700; font-weight: bold; font-size: 20px;">🆔 License ID:</td>
+                  <td style="color: #FFD700; font-family: monospace; font-size: 20px;">AI-007-JEDAI</td>
+                </tr>
+                <tr>
+                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">👤 Age:</td>
+                  <td style="color: #FFD700; font-size: 20px;">22 Years</td>
+                </tr>
+                <tr>
+                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">🎓 Education:</td>
+                  <td style="color: #FFD700; font-size: 20px;">Post Graduate</td>
+                </tr>
+                <tr>
+                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">🤖 Speciality:</td>
+                  <td style="color: #FFD700; font-size: 20px;">Full-Stack AI Specialist</td>
+                </tr>
+                <tr>
+                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">⚡ Level:</td>
+                  <td style="color: #FFD700; font-size: 20px;">Expert Developer</td>
+                </tr>
+                <tr>
+                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">🌍 Base:</td>
+                  <td style="color: #FFD700; font-size: 20px;">India</td>
+                </tr>
+              </table>
 
-<h3 style="color: #FFD700; margin-bottom: 35px; font-size: 22px;">📋 DEVELOPER CREDENTIALS</h3>
+            </td>
+          </tr>
+        </table>
 
-<table width="100%" cellpadding="15" cellspacing="0" style="margin: 10px 0;">
-<tr>
-<td width="35%" style="color: #FFD700; font-weight: bold; font-size: 20px;">🆔 License ID:</td>
-<td style="color: #FFD700; font-family: monospace; font-size: 20px;">AI-007-JEDAI</td>
-</tr>
-<tr>
-<td style="color: #FFD700; font-weight: bold; font-size: 20px;">👤 Age:</td>
-<td style="color: #FFD700; font-size: 20px;">22 Years</td>
-</tr>
-<tr>
-<td style="color: #FFD700; font-weight: bold; font-size: 20px;">🎓 Education:</td>
-<td style="color: #FFD700; font-size: 20px;">Post Graduate</td>
-</tr>
-<tr>
-<td style="color: #FFD700; font-weight: bold; font-size: 20px;">🤖 Speciality:</td>
-<td style="color: #FFD700; font-size: 20px;">Full-Stack AI Specialist</td>
-</tr>
-<tr>
-<td style="color: #FFD700; font-weight: bold; font-size: 20px;">⚡ Level:</td>
-<td style="color: #FFD700; font-size: 20px;">Expert Developer</td>
-</tr>
-<tr>
-<td style="color: #FFD700; font-weight: bold; font-size: 20px;">🌍 Base:</td>
-<td style="color: #FFD700; font-size: 20px;">India</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
-
-</td>
-</tr>
-</table>
+      </td>
+    </tr>
+  </table>
 
 </div>
 
@@ -162,9 +160,9 @@
 <details open> 
   <summary><h2>🏛️ Intelligence Academy & Training Division</h2></summary>
 
-### 📋 **Training Notes & Academic Credentials**
+  ### 📋 **Training Notes & Academic Credentials**
 
-_Classified learning materials and specialized training programs from elite academies_
+  _Classified learning materials and specialized training programs from elite academies_
 
   <!-- Technology Logos Section -->
   <div align="center" style="margin: 30px 0;">
@@ -239,7 +237,9 @@ _Classified learning materials and specialized training programs from elite acad
     &#8287;&#8287;
     <a href="https://devtime-five.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/-DevTime%20Live-FF6B35?style=for-the-badge&logo=clock&logoColor=white" alt="DevTime Live"/></a>
   </p>
+  
   <a href="https://github.com/DevAgnihotri?tab=repositories&sort=stargazers"><img alt="All Active Missions" title="View All Secret Operations" src="https://custom-icon-badges.demolab.com/badge/-Access%20All%20Mission%20Files-000000?style=for-the-badge&logoColor=FFD700&logo=repo&labelColor=8B0000"/></a>
+
 </details>
 
 <details open> 
@@ -259,6 +259,7 @@ _Classified learning materials and specialized training programs from elite acad
     &#8287;&#8287;
     <a href="https://devagnihotri.github.io/Hoth/"><img src="https://custom-icon-badges.demolab.com/badge/-Hoth%20Base%20Live-0099FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Hoth Live"/></a>
   </p>
+
 </details>
 
 <details open> 
@@ -273,7 +274,8 @@ _Classified learning materials and specialized training programs from elite acad
     <a href="https://github.com/DevAgnihotri/KyloRen"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=KyloRen&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="KyloRen"></a>
     <a href="https://github.com/DevAgnihotri/Griev"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Griev&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Griev"></a>
     <a href="https://github.com/DevAgnihotri/DevZone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=DevZone&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="DevZone"></a>
-    <a href="https://github.com/DevAgnihotri/PrimeMinister"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=PrimeMinister&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="PrimeMinister"></a>    <a href="https://github.com/DevAgnihotri/Yavin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Yavin&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Yavin"></a>
+    <a href="https://github.com/DevAgnihotri/PrimeMinister"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=PrimeMinister&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="PrimeMinister"></a>
+    <a href="https://github.com/DevAgnihotri/Yavin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Yavin&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Yavin"></a>
   </p>
   
   <!-- Live Entertainment Operations - Horizontal Layout -->
@@ -296,20 +298,21 @@ _Classified learning materials and specialized training programs from elite acad
     <a href="https://devagnihotri.github.io/PrimeMinister/"><img src="https://custom-icon-badges.demolab.com/badge/-👑%20PM%20Live-DC143C?style=for-the-badge&logo=crown&logoColor=white&labelColor=8B0000" alt="PrimeMinister Live" height="35"/></a>
     <a href="https://devagnihotri.github.io/Yavin/"><img src="https://custom-icon-badges.demolab.com/badge/-🌍%20Yavin%20Live-1E90FF?style=for-the-badge&logo=planet&logoColor=white&labelColor=191970" alt="Yavin Live" height="35"/></a>
   </p>
+
 </details>
 
 <details open> 
-    <summary><h2>🤝 Open Source & Community Projects</h2></summary>
-    <p align="left">
+    <summary><h2>🤝 Open Source & Community Projects</h2></summary>    <p align="left">
       <a href="https://github.com/DevAgnihotri/Open-Source-Contributions"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Open-Source-Contributions&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Open Source Contributions"></a>
       <a href="https://github.com/DevAgnihotri/Community-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Community-Projects&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Community Projects"></a>
     </p>
+    
     <p align="center">
       <strong>🌟 COLLABORATIVE DEVELOPMENT PROJECTS 🌟</strong><br/>
       <em>Building innovative solutions through community collaboration</em>
     </p>
 
-<a href="https://github.com/DevAgnihotri?tab=repositories"><img alt="All Repositories" title="View All Public Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-000000?style=for-the-badge&logoColor=FFD700&logo=git-branch&labelColor=8B0000"/></a>
+    <a href="https://github.com/DevAgnihotri?tab=repositories"><img alt="All Repositories" title="View All Public Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-000000?style=for-the-badge&logoColor=FFD700&logo=git-branch&labelColor=8B0000"/></a>
 
 </details>
 
@@ -361,10 +364,11 @@ _Classified learning materials and specialized training programs from elite acad
       <a href="#"><img alt="Gemini AI" src="https://img.shields.io/badge/Gemini%20AI-000000.svg?logo=google&logoColor=4285F4&style=for-the-badge"></a>
       <a href="#"><img alt="Langchain" src="https://img.shields.io/badge/Langchain-000000.svg?logo=chainlink&logoColor=375BD2&style=for-the-badge"></a>
       <a href="#"><img alt="AutoGen" src="https://img.shields.io/badge/AutoGen-000000.svg?logo=microsoft&logoColor=00BCF2&style=for-the-badge"></a>
-      <a href="#"><img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-000000.svg?logo=robot&logoColor=FF6B6B&style=for-the-badge"></a>
-      <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-000000.svg?logo=huggingface&logoColor=FFD21E&style=for-the-badge"></a>
+      <a href="#"><img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-000000.svg?logo=robot&logoColor=FF6B6B&style=for-the-badge"></a>      <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-000000.svg?logo=huggingface&logoColor=FFD21E&style=for-the-badge"></a>
       <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white&style=for-the-badge"></a>
-  </p>  <h3>🗄️ Intelligence Databases & Cloud Operations</h3>
+  </p>
+  
+  <h3>🗄️ Intelligence Databases & Cloud Operations</h3>
 
   <p>
       <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=FFCA28&style=for-the-badge"></a>
@@ -388,10 +392,10 @@ _Classified learning materials and specialized training programs from elite acad
       <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-000000.svg?logo=git&logoColor=F05032&style=for-the-badge"></a>
       <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-000000.svg?logo=postman&logoColor=FF6C37&style=for-the-badge"></a>
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-000000.svg?logo=linux&logoColor=FCC624&style=for-the-badge"></a>
-      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-000000.svg?logo=figma&logoColor=F24E1E&style=for-the-badge"></a>
+      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-000000.svg?logo=linux&logoColor=FCC624&style=for-the-badge"></a>      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-000000.svg?logo=figma&logoColor=F24E1E&style=for-the-badge"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-000000.svg?logo=Jupyter&logoColor=F37626&style=for-the-badge"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge"></a>  </p>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge"></a>
+  </p>
 </details>
 
 <!-- Casino Operations Gallery -->
