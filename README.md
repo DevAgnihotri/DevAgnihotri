@@ -50,59 +50,53 @@
 <!-- AI Developer License Card - Landscape Layout -->
 <div align="center">
 
-  ## 🤖 **LICENSE TO CODE** 🤖
+## 🤖 **LICENSE TO CODE** 🤖
 
-  <table align="center" width="100%" style="margin: 40px auto;">
-    <tr>
-      <td bgcolor="#0a1929" style="padding: 60px; border: 4px solid #FFD700; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
-
-        <table width="100%" cellpadding="40" cellspacing="0">
-          <tr>
-            <!-- Left Side - Photo and Basic Info -->
-            <td width="30%" align="center" bgcolor="#112240" style="padding: 50px; border-radius: 10px; border: 2px solid #FFD700;">
-              <img src="img/007 card.jfif" alt="Dev Agnihotri" height="260" style="border-radius: 10px; border: 3px solid #FFD700;"/>
-              <h2 style="color: #FFD700; margin: 25px 0 15px 0;">DEV AGNIHOTRI</h2>
-            </td>
-
-            <!-- Spacer -->
-            <td width="5%"></td>
-
-            <!-- Right Side - License Details -->
-            <td width="65%" bgcolor="#0f1419" style="padding: 50px; border-radius: 10px; border: 2px solid #FFD700;">
-              <h3 style="color: #FFD700; margin-bottom: 35px; font-size: 22px;">📋 DEVELOPER CREDENTIALS</h3>
-
-              <table width="100%" cellpadding="15" cellspacing="0" style="margin: 10px 0;">
-                <tr>
-                  <td width="35%" style="color: #FFD700; font-weight: bold; font-size: 20px;">🆔 License ID:</td>
-                  <td style="color: #FFD700; font-family: monospace; font-size: 20px;">AI-007-JEDAI</td>
-                </tr>
-                <tr>
-                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">👤 Age:</td>
-                  <td style="color: #FFD700; font-size: 20px;">22 Years</td>
-                </tr>
-                <tr>
-                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">🎓 Education:</td>
-                  <td style="color: #FFD700; font-size: 20px;">Post Graduate</td>
-                </tr>
-                <tr>
-                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">🤖 Speciality:</td>
-                  <td style="color: #FFD700; font-size: 20px;">Full-Stack AI Specialist</td>
-                </tr>
-                <tr>
-                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">⚡ Level:</td>
-                  <td style="color: #FFD700; font-size: 20px;">Expert Developer</td>
-                </tr>
-                <tr>
-                  <td style="color: #FFD700; font-weight: bold; font-size: 20px;">🌍 Base:</td>
-                  <td style="color: #FFD700; font-size: 20px;">India</td>
-                </tr>
-              </table>
-
-            </td>
-          </tr>
-        </table>      </td>
-    </tr>
-  </table>
+<div align="center">
+<table border="1" cellpadding="20" cellspacing="0" style="width: 100%; max-width: 900px; margin: 0 auto;">  <tr>    <!-- Left Side - Photo and Basic Info -->
+    <td width="35%" align="center" valign="center" style="padding: 25px;">
+      <br/><br/>
+      <img src="img/007 card.jfif" alt="Dev Agnihotri" height="250" style="border-radius: 8px;"/>
+      <h3>DEV AGNIHOTRI</h3>
+    </td>
+    <!-- Right Side - License Details -->
+    <td width="65%" valign="top" style="padding: 25px;">
+      <h3 style="margin-top: 0;">📋 DEVELOPER CREDENTIALS</h3>
+      <table border="1" cellpadding="8" cellspacing="0" style="width: 100%;">
+        <tr>
+          <td style="font-weight: bold; width: 35%;">🆔 License ID:</td>
+          <td style="font-family: 'Courier New', monospace; font-weight: bold;">AI-007-JEDAI</td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">👤 Age:</td>
+          <td><strong>22 Years</strong></td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">🎓 Education:</td>
+          <td><strong>Post Graduate</strong></td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">🤖 Specialty:</td>
+          <td><strong>Full-Stack AI Specialist</strong></td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">⚡ Level:</td>
+          <td><strong>Expert Developer</strong></td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">🌍 Base:</td>
+          <td><strong>India</strong></td>
+        </tr>
+        <tr>
+          <td style="font-weight: bold;">📅 Status:</td>
+          <td style="font-weight: bold; color: #008000;">✅ ACTIVE</td>
+        </tr>
+      </table>
+      <br/>
+    </td>
+  </tr>
+</table>
+</div>
 
 </div>
 
@@ -172,9 +166,9 @@
 <details open>
   <summary><h2>🏛️ Intelligence Academy & Training Division</h2></summary>
 
-  ### 📋 **Training Notes & Academic Credentials**
+### 📋 **Training Notes & Academic Credentials**
 
-  _Classified learning materials and specialized training programs from elite academies_
+_Classified learning materials and specialized training programs from elite academies_
 
   <!-- Technology Logos Section -->
   <div align="center" style="margin: 30px 0;">
@@ -326,18 +320,16 @@
 <!-- ====================================================================== -->
 
 <details open> 
-    <summary><h2>🤝 Open Source & Community Projects</h2></summary>    <p align="left">
+    <summary><h2>🤝 Open Source & Community Projects</h2></summary>    
+    <p align="left">
       <a href="https://github.com/DevAgnihotri/Open-Source-Contributions"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Open-Source-Contributions&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Open Source Contributions"></a>
       <a href="https://github.com/DevAgnihotri/Community-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Community-Projects&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Community Projects"></a>
     </p>
-    
     <p align="center">
       <strong>🌟 COLLABORATIVE DEVELOPMENT PROJECTS 🌟</strong><br/>
       <em>Building innovative solutions through community collaboration</em>
     </p>
-
     <a href="https://github.com/DevAgnihotri?tab=repositories"><img alt="All Repositories" title="View All Public Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-000000?style=for-the-badge&logoColor=FFD700&logo=git-branch&labelColor=8B0000"/></a>
-
 </details>
 
 <!-- ====================================================================== -->
@@ -346,7 +338,7 @@
 
 <details open> 
   <summary><h2>🛠️ Technical Skills & Expertise</h2></summary>
-
+  
   <!-- Technology Logos Display -->
   <div align="center" style="margin: 20px 0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 0 15px;"/>
