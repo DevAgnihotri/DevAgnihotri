@@ -1,29 +1,42 @@
 <!-- SECRET AGENT PROFILE: CLASSIFIED -->
-<p align="center">
-  <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=CLASSIFIED:%20AGENT%20007;Mission%20Status:%20ACTIVE;Web%20Development%20Specialist;AI%20Intelligence%20Operative;License%20to%20Code&font=Consolas&center=true&width=600&height=80&color=D4AF37&vCenter=true&pause=1000&size=24&background=000000" alt="Agent 007 - Dev Agnihotri" /></a>
-</p>
+<!-- CASINO ROYALE DOSSIER -->
 
 <div align="center">
   
-### 🕴️ **AGENT PROFILE: DEV AGNIHOTRI** 🕴️
-**Classification Level: TOP SECRET**  
-**Codename: 007**  
-**Specialization: Web Development & AI Operations**
+<!-- Casino Royale Hero Section -->
+<img src="./img/casino.jfif" alt="Casino Royale Operations Center" width="100%" style="border-radius: 10px; margin: 20px 0;"/>
+
+<p align="center">
+  <a href="https://github.com/DevAgnihotri">
+    <img src="https://readme-typing-svg.demolab.com/?lines=CLASSIFIED:%20AGENT%20007;Casino%20Royale%20Operations;Web%20Development%20Specialist;AI%20Intelligence%20Operative;Firebase%20Cloud%20Operations;License%20to%20Code&font=Consolas&center=true&width=600&height=80&color=D4AF37&vCenter=true&pause=1000&size=24&background=000000" alt="Agent 007 - Dev Agnihotri" /></a>
+</p>
+
+<!-- Agent Profile with Portrait Images -->
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; margin: 20px 0;">
+  <img src="./img/007.jfif" alt="Agent 007" height="150" style="border-radius: 8px;"/>
+  <div>
+    <h3>🎰 **AGENT PROFILE: DEV AGNIHOTRI** 🎰</h3>
+    <p><strong>Classification Level: TOP SECRET</strong><br/>
+    <strong>Codename: 007</strong><br/>
+    <strong>Mission Location: Casino Royale</strong><br/>
+    <strong>Specialization: Web Development & AI Operations</strong><br/>
+    <strong>🃏 High Stakes Technology 🃏</strong></p>
+  </div>
+  <img src="./img/bond.jfif" alt="James Bond Style" height="150" style="border-radius: 8px;"/>
+</div>
 
 </div>
 
 <!-- Mission Badge -->
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-MISSION%20ACTIVE-D4AF37?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="Mission Status"/>
-  <img src="https://img.shields.io/badge/CLEARANCE-TOP%20SECRET-8B0000?style=for-the-badge&logo=shield&logoColor=white&labelColor=000000" alt="Security Clearance"/>
-  <img src="https://img.shields.io/badge/LICENSE-TO%20CODE-FFD700?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" alt="License to Code"/>
+  <img src="https://img.shields.io/badge/🎰%20CASINO%20ROYALE%20🎰-ACTIVE-D4AF37?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="Casino Royale Status"/>
+  <img src="https://img.shields.io/badge/🃏%20HIGH%20STAKES%20🃏-CLEARANCE-8B0000?style=for-the-badge&logo=shield&logoColor=white&labelColor=000000" alt="Security Clearance"/>
+  <img src="https://img.shields.io/badge/🍸%20LICENSE%20TO%20CODE%20🍸-GRANTED-FFD700?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" alt="License to Code"/>
 </p>
 
-<p align="center">
-  <!-- Typing SVG for James Bond style -->
+<p align="center">  <!-- Typing SVG for James Bond Casino Royale style -->
   <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web%20Development%20Agent;AI%20Technology%20Specialist;Frontend%20%26%20Backend%20Operative;Always%20on%20a%20mission;Never%20leave%20a%20bug%20behind&font=Fira%20Code&center=true&width=500&height=45&color=D4AF37&vCenter=true&pause=1200&size=20&background=1a1a1a" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=🎰%20Casino%20Royale%20Developer;🃏%20High%20Stakes%20Technology;🍸%20Shaken%2C%20not%20stirred%20code;🎲%20Firebase%20Cloud%20Operations;🤖%20AI%20Agent%20Specialist;♠️%20Always%20bet%20on%20clean%20code&font=Fira%20Code&center=true&width=500&height=45&color=D4AF37&vCenter=true&pause=1200&size=20&background=1a1a1a" /></a>
 </p>
 
 <!-- Social Network (Secret Communication Channels) -->
@@ -178,11 +191,16 @@
 
 </details>
 
-<details> 
+<details open> 
   <summary><h2>🛠️ Agent's Arsenal (Technical Skills)</h2></summary>
 
-  <h3>💻 Programming Languages & Markup</h3>
+  <!-- Casino Gaming Elements -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="./img/007 card.jfif" alt="Agent's Poker Hand" height="100" style="margin: 0 10px; border-radius: 8px;"/>
+    <img src="./img/poster.jfif" alt="Casino Royale Mission" height="100" style="margin: 0 10px; border-radius: 8px;"/>
+  </div>
 
+  <h3>💻 Programming Languages & Markup</h3>
   <p>
       <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge"></a>
       <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000.svg?logo=typescript&logoColor=3178C6&style=for-the-badge"></a>
@@ -193,13 +211,13 @@
       <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-000000.svg?logo=database&logoColor=D4AF37&style=for-the-badge"></a>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge"></a>
   </p>
-
   <h3>🎯 Specialized Equipment & Frameworks</h3>
 
   <p>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-000000.svg?logo=react&logoColor=61DAFB&style=for-the-badge"></a>
       <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=FFCA28&style=for-the-badge"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000.svg?logo=TensorFlow&logoColor=FF6F00&style=for-the-badge"></a>
       <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-000000.svg?logo=PyTorch&logoColor=EE4C2C&style=for-the-badge"></a>
       <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000.svg?logo=fastapi&logoColor=009688&style=for-the-badge"></a>
@@ -207,17 +225,31 @@
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000.svg?logo=bootstrap&logoColor=7952B3&style=for-the-badge"></a>
       <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-000000.svg?logo=tailwind-css&logoColor=06B6D4&style=for-the-badge"></a>
   </p>
-
-  <h3>🗄️ Intelligence Databases & Cloud Operations</h3>
+  <h3>🤖 AI Agents & Intelligence Systems</h3>
 
   <p>
+      <a href="#"><img alt="OpenAI GPT" src="https://img.shields.io/badge/OpenAI%20GPT-000000.svg?logo=openai&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Claude AI" src="https://img.shields.io/badge/Claude%20AI-000000.svg?logo=anthropic&logoColor=D97706&style=for-the-badge"></a>
+      <a href="#"><img alt="Gemini AI" src="https://img.shields.io/badge/Gemini%20AI-000000.svg?logo=google&logoColor=4285F4&style=for-the-badge"></a>
+      <a href="#"><img alt="Langchain" src="https://img.shields.io/badge/Langchain-000000.svg?logo=chainlink&logoColor=375BD2&style=for-the-badge"></a>
+      <a href="#"><img alt="AutoGen" src="https://img.shields.io/badge/AutoGen-000000.svg?logo=microsoft&logoColor=00BCF2&style=for-the-badge"></a>
+      <a href="#"><img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-000000.svg?logo=robot&logoColor=FF6B6B&style=for-the-badge"></a>
+      <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-000000.svg?logo=huggingface&logoColor=FFD21E&style=for-the-badge"></a>
+      <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white&style=for-the-badge"></a>
+  </p>  <h3>🗄️ Intelligence Databases & Cloud Operations</h3>
+
+  <p>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=FFCA28&style=for-the-badge"></a>
+      <a href="#"><img alt="Firestore" src="https://img.shields.io/badge/Firestore-000000.svg?logo=firebase&logoColor=FFA000&style=for-the-badge"></a>
+      <a href="#"><img alt="Firebase Auth" src="https://img.shields.io/badge/Firebase%20Auth-000000.svg?logo=firebase&logoColor=FF7043&style=for-the-badge"></a>
+      <a href="#"><img alt="Cloud Functions" src="https://img.shields.io/badge/Cloud%20Functions-000000.svg?logo=firebase&logoColor=4285F4&style=for-the-badge"></a>
       <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000.svg?logo=mongodb&logoColor=47A248&style=for-the-badge"></a>
       <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000.svg?logo=postgresql&logoColor=336791&style=for-the-badge"></a>
       <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?logo=mysql&logoColor=4479A1&style=for-the-badge"></a>
       <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-000000.svg?logo=redis&logoColor=DC382D&style=for-the-badge"></a>
       <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazon-aws&logoColor=FF9900&style=for-the-badge"></a>
+      <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-000000.svg?logo=google-cloud&logoColor=4285F4&style=for-the-badge"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-000000.svg?logo=heroku&logoColor=430098&style=for-the-badge"></a>
       <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?logo=docker&logoColor=2496ED&style=for-the-badge"></a>
   </p>
 
@@ -266,17 +298,21 @@
       <img alt="Dev Agnihotri's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=DevAgnihotri&bg_color=000000&color=D4AF37&line=FFD700&point=FFFFFF&hide_border=true" />
     </a>
   </p>
-
   <h3>⚡ Recent Mission Activity</h3>
 
   <!--START_SECTION:activity-->
 
-1. 🎯 Completed mission: Quantum Encryption Protocol
-2. 🔍 Intelligence gathered: AI surveillance systems
-3. 💻 Code deployed: Secure communication network
-4. 🛡️ Security breach: PATCHED - Threat neutralized
-5. 🌐 Web infiltration: Target acquired and compromised
+1. 🎯 **TARGET ACQUIRED**: Advanced AI agent deployment successful
+2. 🔍 **INTELLIGENCE GATHERED**: Firebase cloud infrastructure secured  
+3. 💻 **CODE DEPLOYED**: High-performance web applications live
+4. 🛡️ **SECURITY PROTOCOL**: All systems fortified, threats neutralized
+5. 🌐 **MISSION COMPLETE**: Digital operations running at full capacity
 <!--END_SECTION:activity-->
+
+  <!-- Casino Divider -->
+  <div align="center" style="margin: 30px 0;">
+    <img src="https://img.shields.io/badge/🎰-MISSION%20STATUS:%20ACTIVE-D4AF37?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="Mission Status"/>
+  </div>
 
 </details>
 
@@ -284,11 +320,19 @@
 
 <div align="center">
 
-### 🍸 "The name's Agnihotri. Dev Agnihotri." 🍸
+### 🎰 "The name's Agnihotri. Dev Agnihotri." 🎰
 
-<img src="https://img.shields.io/badge/License%20to%20Code-GRANTED-D4AF37?style=for-the-badge&logo=shield&logoColor=black&labelColor=000000" alt="License to Code"/>
+<!-- Casino Royale Roulette -->
+<img src="./img/Spin Roulette.jfif" alt="Casino Royale Roulette" width="300" style="border-radius: 15px; margin: 20px 0;"/>
 
-**🎩 Remember: I code, therefore I am... inevitable. 🎩**
+<!-- Casino Royale themed footer -->
+<p align="center">
+  🎰 <img src="https://img.shields.io/badge/🃏%20License%20to%20Code%20🃏-GRANTED-D4AF37?style=for-the-badge&logo=shield&logoColor=black&labelColor=000000" alt="License to Code"/> 🎰
+</p>
+
+**🍸 "Precision under pressure. Clean code, no bluffs." 🍸**  
+**🎲 High Stakes Development. Higher Code Quality. 🎲**  
+**♠️ Fast as lightning. Sharp as a blade. Straight as an arrow. ♠️**
 
 </div>
 
