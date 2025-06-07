@@ -310,7 +310,7 @@ _Classified learning materials and specialized training programs from elite acad
       <em>Building innovative solutions through community collaboration</em>
     </p>
 
-  <a href="https://github.com/DevAgnihotri?tab=repositories"><img alt="All Repositories" title="View All Public Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-000000?style=for-the-badge&logoColor=FFD700&logo=git-branch&labelColor=8B0000"/></a>
+<a href="https://github.com/DevAgnihotri?tab=repositories"><img alt="All Repositories" title="View All Public Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-000000?style=for-the-badge&logoColor=FFD700&logo=git-branch&labelColor=8B0000"/></a>
 
 </details>
 
@@ -459,7 +459,7 @@ _Classified learning materials and specialized training programs from elite acad
 
 <!-- Casino Royale themed footer -->
 <p align="center">
-  🎰 <img src="https://img.shields.io/badge/🃏%20License%20to%20Code%20🃏-GRANTED-FFD700?style=for-the-badge&logo=shield&logoColor=black&labelColor=000000" height="320" alt="License to Code"/> 🎰
+  🎰 <img src="https://img.shields.io/badge/🃏%20License%20to%20Code%20🃏-GRANTED-FFD700?style=for-the-badge&logo=shield&logoColor=black&labelColor=000000" alt="License to Code"/> 🎰
 </p>
 
 **🍸 Fast. Precise. Professional.** 🍸  
@@ -482,7 +482,7 @@ _Classified learning materials and specialized training programs from elite acad
 
 **"Do you think you're ready for the high-stakes world of professional development?"**
 
-<img src="./img/james-bond-007.gif" alt="Yes, considerably" width="300" style="border-radius: 10px; margin: 20px 0; border: 2px solid #FFD700;"/>
+<img src="./img/james-bond-007.gif" alt="Yes, considerably" height="320" style="border-radius: 10px; margin: 20px 0; border: 2px solid #FFD700;"/>
 
 **🍸 Yes, considerably. 🍸**
 
