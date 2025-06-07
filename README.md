@@ -7,14 +7,14 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=80&lines=🤖+CLASSIFIED:+AI+JEDAI+🤖;💻+WEB+DEVELOPER+SPECIALIST;🚀+FULL+STACK+ENGINEER;🤖+AI+OPERATIONS+SPECIALIST;🌟+MACHINE+LEARNING+EXPERT" alt="Dev Agnihotri - Developer Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&height=80&lines=🤖+CLASSIFIED:+AI+JEDAI+🤖;💻+WEB+DEVELOPER+SPECIALIST;🚀+FULL+STACK+ENGINEER;🤖+AI+OPERATIONS+SPECIALIST;🌟+MACHINE+LEARNING+EXPERT" alt="Dev Agnihotri - Developer Specialist" />
 </p>
 
 <!-- Fallback: Static Beautiful Badges if typing animation doesn't work -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://img.shields.io/badge/🤖_CLASSIFIED-AI_JEDAI-00FF00?style=for-the-badge&logo=robot&logoColor=black&labelColor=000000" alt="AI JedAI" height="35"/>
-  <img src="https://img.shields.io/badge/💻_DEVELOPER-SPECIALIST-00FF00?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" alt="Developer" height="35"/>
-  <img src="https://img.shields.io/badge/🚀_FULL_STACK-ENGINEER-00FF00?style=for-the-badge&logo=rocket&logoColor=black&labelColor=000000" alt="Full Stack" height="35"/>
+  <img src="https://img.shields.io/badge/🤖_CLASSIFIED-AI_JEDAI-FFD700?style=for-the-badge&logo=robot&logoColor=black&labelColor=000000" alt="AI JedAI" height="35"/>
+  <img src="https://img.shields.io/badge/💻_DEVELOPER-SPECIALIST-FFD700?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" alt="Developer" height="35"/>
+  <img src="https://img.shields.io/badge/🚀_FULL_STACK-ENGINEER-FFD700?style=for-the-badge&logo=rocket&logoColor=black&labelColor=000000" alt="Full Stack" height="35"/>
 </div>
 
 <div align="center">
@@ -30,14 +30,14 @@
 
 <!-- Beautiful Flashing Specialties Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=💻+WEB+DEVELOPER+SPECIALIST;🤖+AI+OPERATIONS+SPECIALIST;⚡+FULL+STACK+ENGINEER;🌟+MACHINE+LEARNING+EXPERT" alt="Dev Specialties" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=💻+WEB+DEVELOPER+SPECIALIST;🤖+AI+OPERATIONS+SPECIALIST;⚡+FULL+STACK+ENGINEER;🌟+MACHINE+LEARNING+EXPERT" alt="Dev Specialties" />
 </p>
 
 <!-- Fallback: Additional Static Specialties if typing animation doesn't work -->
 <div align="center" style="margin: 15px 0;">
-  <img src="https://img.shields.io/badge/🔮_FIREBASE-CLOUD_MASTER-00FF00?style=flat-square&logoColor=black&labelColor=000000" alt="Firebase" height="28"/>
-  <img src="https://img.shields.io/badge/⚡_REACT_&_NEXT.JS-NINJA-00FF00?style=flat-square&logoColor=black&labelColor=000000" alt="React NextJS" height="28"/>
-  <img src="https://img.shields.io/badge/💎_DATABASE-ARCHITECT-00FF00?style=flat-square&logoColor=black&labelColor=000000" alt="Database" height="28"/>
+  <img src="https://img.shields.io/badge/🔮_FIREBASE-CLOUD_MASTER-FFD700?style=flat-square&logoColor=black&labelColor=000000" alt="Firebase" height="28"/>
+  <img src="https://img.shields.io/badge/⚡_REACT_&_NEXT.JS-NINJA-FFD700?style=flat-square&logoColor=black&labelColor=000000" alt="React NextJS" height="28"/>
+  <img src="https://img.shields.io/badge/💎_DATABASE-ARCHITECT-FFD700?style=flat-square&logoColor=black&labelColor=000000" alt="Database" height="28"/>
 </div>
 
 <!-- AI Developer License Card - Landscape Layout -->
@@ -47,51 +47,51 @@
 
 <table align="center" width="95%" style="max-width: 1200px;">
 <tr>
-<td bgcolor="#0a1929" style="padding: 50px; border: 4px solid #00FF00; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
+<td bgcolor="#0a1929" style="padding: 50px; border: 4px solid #FFD700; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
 
 <table width="100%" cellpadding="30" cellspacing="0">
 <tr>
 <!-- Left Side - Photo and Basic Info -->
-<td width="30%" align="center" bgcolor="#112240" style="padding: 40px; border-radius: 10px; border: 2px solid #00FF00;">
-<img src="img/007 card.jfif" alt="Dev Agnihotri" height="240" style="border-radius: 10px; border: 3px solid #00FF00;"/>
+<td width="30%" align="center" bgcolor="#112240" style="padding: 40px; border-radius: 10px; border: 2px solid #FFD700;">
+<img src="img/007 card.jfif" alt="Dev Agnihotri" height="240" style="border-radius: 10px; border: 3px solid #FFD700;"/>
 
-<h2 style="color: #00FF00; margin: 20px 0 10px 0;">DEV AGNIHOTRI</h2>
+<h2 style="color: #FFD700; margin: 20px 0 10px 0;">DEV AGNIHOTRI</h2>
 
-<img src="https://img.shields.io/badge/🤖%20STATUS%20🤖-ACTIVE%20JEDAI-00FF00?style=for-the-badge&logo=verified&logoColor=black&labelColor=000033" alt="Active Status" height="40"/>
+<img src="https://img.shields.io/badge/🤖%20STATUS%20🤖-ACTIVE%20JEDAI-FFD700?style=for-the-badge&logo=verified&logoColor=black&labelColor=000033" alt="Active Status" height="40"/>
 </td>
 
 <!-- Spacer -->
 <td width="5%"></td>
 
 <!-- Right Side - License Details -->
-<td width="65%" bgcolor="#0f1419" style="padding: 40px; border-radius: 10px; border: 2px solid #00FF00;">
+<td width="65%" bgcolor="#0f1419" style="padding: 40px; border-radius: 10px; border: 2px solid #FFD700;">
 
-<h3 style="color: #00FF00; margin-bottom: 30px; font-size: 20px;">📋 DEVELOPER CREDENTIALS</h3>
+<h3 style="color: #FFD700; margin-bottom: 30px; font-size: 20px;">📋 DEVELOPER CREDENTIALS</h3>
 
 <table width="100%" cellpadding="12" cellspacing="0">
 <tr>
 <td width="25%" style="color: #FFD700; font-weight: bold; font-size: 18px;">🆔 License ID:</td>
-<td style="color: #00FF00; font-family: monospace; font-size: 18px;">AI-007-JEDAI</td>
+<td style="color: #FFD700; font-family: monospace; font-size: 18px;">AI-007-JEDAI</td>
 </tr>
 <tr>
 <td style="color: #FFD700; font-weight: bold; font-size: 18px;">👤 Age:</td>
-<td style="color: #00FF00; font-size: 18px;">22 Years</td>
+<td style="color: #FFD700; font-size: 18px;">22 Years</td>
 </tr>
 <tr>
 <td style="color: #FFD700; font-weight: bold; font-size: 18px;">🎓 Education:</td>
-<td style="color: #00FF00; font-size: 18px;">Post Graduate</td>
+<td style="color: #FFD700; font-size: 18px;">Post Graduate</td>
 </tr>
 <tr>
 <td style="color: #FFD700; font-weight: bold; font-size: 18px;">🤖 Speciality:</td>
-<td style="color: #00FF00; font-size: 18px;">Full-Stack AI Specialist</td>
+<td style="color: #FFD700; font-size: 18px;">Full-Stack AI Specialist</td>
 </tr>
 <tr>
 <td style="color: #FFD700; font-weight: bold; font-size: 18px;">⚡ Level:</td>
-<td style="color: #00FF00; font-size: 18px;">JedAI Master</td>
+<td style="color: #FFD700; font-size: 18px;">JedAI Master</td>
 </tr>
 <tr>
 <td style="color: #FFD700; font-weight: bold; font-size: 18px;">🌍 Base:</td>
-<td style="color: #00FF00; font-size: 18px;">India</td>
+<td style="color: #FFD700; font-size: 18px;">India</td>
 </tr>
 </table>
 
@@ -110,7 +110,7 @@
 <!-- AI JedAI Badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/⚡%20FULL%20STACK%20⚡-JEDAI%20MASTER-FFD700?style=for-the-badge&logo=lightning&logoColor=black&labelColor=8B0000" alt="JedAI Master" height="40"/>
-  <img src="https://img.shields.io/badge/🌟%20AI%20FORCE%20🌟-UNLIMITED-D4AF37?style=for-the-badge&logo=star&logoColor=black&labelColor=000000" alt="AI Force" height="40"/>
+  <img src="https://img.shields.io/badge/🌟%20AI%20FORCE%20🌟-UNLIMITED-FFD700?style=for-the-badge&logo=star&logoColor=black&labelColor=000000" alt="AI Force" height="40"/>
 </p>
 
 <!-- Social Network (Secret Communication Channels) -->
@@ -150,7 +150,7 @@
     <img alt="GitHub Stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/DevAgnihotri?color=D4AF37&style=for-the-badge&labelColor=000000&logo=star&label=STARS%20EARNED"/></a>
   <a href="https://github.com/DevAgnihotri?tab=repositories">
     <img alt="Total Repositories" title="GitHub Repositories" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/DevAgnihotri&query=$.public_repos&color=8B0000&labelColor=000000&style=for-the-badge&logo=repo&label=REPOSITORIES&logoColor=white"/></a>
-  <img alt="Profile Views" title="Profile Views" src="https://img.shields.io/badge/PROFILE-VIEWS-1F1F1F?style=for-the-badge&logo=eye&logoColor=D4AF37&labelColor=000000" alt="profile views"/>
+  <img alt="Profile Views" title="Profile Views" src="https://img.shields.io/badge/PROFILE-VIEWS-1F1F1F?style=for-the-badge&logo=eye&logoColor=FFD700&labelColor=000000" alt="profile views"/>
 </p>
 
 <br/>
