@@ -56,8 +56,6 @@
 <img src="img/007 card.jfif" alt="Dev Agnihotri" height="260" style="border-radius: 10px; border: 3px solid #FFD700;"/>
 
 <h2 style="color: #FFD700; margin: 25px 0 15px 0;">DEV AGNIHOTRI</h2>
-
-<img src="https://img.shields.io/badge/🤖%20STATUS%20🤖-ACTIVE%20JEDAI-FFD700?style=for-the-badge&logo=verified&logoColor=black&labelColor=000033" alt="Active Status" height="40"/>
 </td>
 
 <!-- Spacer -->
@@ -68,7 +66,7 @@
 
 <h3 style="color: #FFD700; margin-bottom: 35px; font-size: 22px;">📋 DEVELOPER CREDENTIALS</h3>
 
-<table width="100%" cellpadding="15" cellspacing="0">
+<table width="100%" cellpadding="15" cellspacing="0" style="margin: 10px 0;">
 <tr>
 <td width="35%" style="color: #FFD700; font-weight: bold; font-size: 20px;">🆔 License ID:</td>
 <td style="color: #FFD700; font-family: monospace; font-size: 20px;">AI-007-JEDAI</td>
