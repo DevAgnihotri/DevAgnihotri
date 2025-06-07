@@ -70,7 +70,7 @@
 
 <table width="100%" cellpadding="15" cellspacing="0">
 <tr>
-<td width="25%" style="color: #FFD700; font-weight: bold; font-size: 20px;">🆔 License ID:</td>
+<td width="35%" style="color: #FFD700; font-weight: bold; font-size: 20px;">🆔 License ID:</td>
 <td style="color: #FFD700; font-family: monospace; font-size: 20px;">AI-007-JEDAI</td>
 </tr>
 <tr>
@@ -163,28 +163,64 @@
 <details open> 
   <summary><h2>🏛️ Intelligence Academy & Training Division</h2></summary>
 
-  <table>
+### 📋 **Training Notes & Academic Credentials**
+
+_Classified learning materials and specialized training programs from elite academies_
+
+  <!-- Technology Logos Section -->
+  <div align="center" style="margin: 30px 0;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="40"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" height="40"/>
+    <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" height="40"/>
+    <img src="https://img.shields.io/badge/Database-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="Database" height="40"/>
+  </div>
+
+  <!-- Training Blocks with Associated Links -->
+  <table width="100%" cellpadding="20">
     <tr>
-      <th>📚 Secret Agent Training Manuals</th>
-      <th>🎓 Field Operations Academy</th>
+      <th width="50%">📚 Secret Agent Training Manuals</th>
+      <th width="50%">🎓 Field Operations Academy</th>
     </tr>
     <tr>
-      <td>
-        <div align="center">
-          <a href="https://github.com/DevAgnihotri/javascript-essentials"><img src="https://custom-icon-badges.demolab.com/badge/-JavaScript%20Intelligence-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Training" /></a>
-          <br />
-          <a href="https://github.com/DevAgnihotri/DBMS"><img src="https://custom-icon-badges.demolab.com/badge/-Database%20Operations-336791?style=for-the-badge&logo=database&logoColor=white" alt="DBMS Operations" /></a>
-        </div>
+      <td align="center" bgcolor="#0f1419" style="padding: 20px; border-radius: 10px; border: 2px solid #FFD700;">
+        <h4 style="color: #FFD700;">🔧 JavaScript Intelligence</h4>
+        <p style="color: #C0C0C0;">Advanced JavaScript operations and modern ES6+ techniques for field deployment</p>
+        <a href="https://github.com/DevAgnihotri/javascript-essentials">
+          <img src="https://img.shields.io/badge/-Access%20Training%20Manual-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Training" />
+        </a>
       </td>
-      <td>
-        <a href="https://github.com/DevAgnihotri/JAVA"><img src="https://custom-icon-badges.demolab.com/badge/-Java%20Combat%20Training-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java Training" /></a>
-        <br />
-        <a href="https://github.com/DevAgnihotri/DSA_Cpp"><img src="https://custom-icon-badges.demolab.com/badge/-C++%20Advanced%20Tactics-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ DSA Training" /></a>
+      <td align="center" bgcolor="#0f1419" style="padding: 20px; border-radius: 10px; border: 2px solid #FFD700;">
+        <h4 style="color: #FFD700;">☕ Java Combat Training</h4>
+        <p style="color: #C0C0C0;">Enterprise-level Java programming for mission-critical applications</p>
+        <a href="https://github.com/DevAgnihotri/JAVA">
+          <img src="https://img.shields.io/badge/-Access%20Training%20Manual-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java Training" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" bgcolor="#0f1419" style="padding: 20px; border-radius: 10px; border: 2px solid #FFD700;">
+        <h4 style="color: #FFD700;">🗄️ Database Operations</h4>
+        <p style="color: #C0C0C0;">Advanced DBMS operations and data intelligence gathering techniques</p>
+        <a href="https://github.com/DevAgnihotri/DBMS">
+          <img src="https://img.shields.io/badge/-Access%20Training%20Manual-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="DBMS Operations" />
+        </a>
+      </td>
+      <td align="center" bgcolor="#0f1419" style="padding: 20px; border-radius: 10px; border: 2px solid #FFD700;">
+        <h4 style="color: #FFD700;">⚔️ C++ Advanced Tactics</h4>
+        <p style="color: #C0C0C0;">Data structures, algorithms and high-performance computing for tactical operations</p>
+        <a href="https://github.com/DevAgnihotri/DSA_Cpp">
+          <img src="https://img.shields.io/badge/-Access%20Training%20Manual-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++ DSA Training" />
+        </a>
       </td>
     </tr>
   </table>
 
-<a href="https://github.com/sponsors/DevAgnihotri/"><img alt="Support Intelligence Operations" title="Fund Secret Missions" src="https://custom-icon-badges.demolab.com/badge/-Fund%20Secret%20Operations-000000?style=for-the-badge&logoColor=FFD700&logo=heart&labelColor=8B0000"/></a>
+  <!-- Support Operations -->
+  <div align="center" style="margin: 30px 0;">
+    <a href="https://github.com/sponsors/DevAgnihotri/">
+      <img alt="Support Intelligence Operations" title="Fund Secret Missions" src="https://custom-icon-badges.demolab.com/badge/-Fund%20Secret%20Operations-000000?style=for-the-badge&logoColor=FFD700&logo=heart&labelColor=8B0000"/>
+    </a>
+  </div>
 
 </details>
 
