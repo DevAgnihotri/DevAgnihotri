@@ -8,12 +8,12 @@
 
 <p align="center">
   <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20CLASSIFIED:%20AI%20JEDAI%20🤖;⚡%20Mr.%20AI-ncredible%20Operations;🌟%20AI%20Development%20Specialist;🚀%20Machine%20Learning%20Operative;🔮%20Firebase%20Cloud%20Mastery;🌟%20The%20Force%20Awakens&font=Consolas&center=true&width=700&height=80&color=00FF00&vCenter=true&pause=1000&size=24&background=000000" alt="Mr. AI-ncredible - Dev Agnihotri" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20CLASSIFIED:%20AI%20JEDAI%20🤖;💻%20WEB%20DEVELOPER%20SPECIALIST;🚀%20FULL%20STACK%20ENGINEER;🤖%20AI%20OPERATIONS%20SPECIALIST;🌟%20MACHINE%20LEARNING%20EXPERT;🔮%20FIREBASE%20CLOUD%20MASTER;⚡%20REACT%20%26%20NEXT.JS%20NINJA;💎%20DATABASE%20ARCHITECT;🎯%20PROBLEM%20SOLVING%20EXPERT;🌟%20The%20Force%20Awakens&font=Consolas&center=true&width=700&height=80&color=00FF00&vCenter=true&pause=1000&size=24&background=000000" alt="Dev Agnihotri - Developer Specialist" /></a>
 </p>
 
 <div align="center">
   
-### 🤖 **DEVELOPER PROFILE: MR. AI-NCREDIBLE** 🤖
+### 🤖 **DEVELOPER PROFILE: DEV AGNIHOTRI** 🤖
 **Status: Active JedAI Master**  
 **Specialty: AI-Powered Full-Stack Development**  
 **Focus: Machine Learning & Modern Web Mastery**  
@@ -33,17 +33,17 @@
 
 ## 🤖 **AI DEVELOPER LICENSE** 🤖
 
-<table align="center" width="90%" style="max-width: 900px;">
+<table align="center" width="95%" style="max-width: 1200px;">
 <tr>
-<td bgcolor="#0a1929" style="padding: 40px; border: 4px solid #00FF00; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
+<td bgcolor="#0a1929" style="padding: 50px; border: 4px solid #00FF00; border-radius: 15px; background: linear-gradient(135deg, #0a1929 0%, #1e3a5f 50%, #0a1929 100%);">
 
-<table width="100%" cellpadding="20" cellspacing="0">
+<table width="100%" cellpadding="30" cellspacing="0">
 <tr>
 <!-- Left Side - Photo and Basic Info -->
-<td width="35%" align="center" bgcolor="#112240" style="padding: 30px; border-radius: 10px; border: 2px solid #00FF00;">
-<img src="img/007.jfif" alt="Dev Agnihotri" height="220" style="border-radius: 10px; border: 3px solid #00FF00;"/>
+<td width="30%" align="center" bgcolor="#112240" style="padding: 40px; border-radius: 10px; border: 2px solid #00FF00;">
+<img src="img/007 card.jfif" alt="Dev Agnihotri" height="240" style="border-radius: 10px; border: 3px solid #00FF00;"/>
 
-<h2 style="color: #00FF00; margin: 20px 0 10px 0;">MR. AI-NCREDIBLE</h2>
+<h2 style="color: #00FF00; margin: 20px 0 10px 0;">DEV AGNIHOTRI</h2>
 <h3 style="color: #FFD700; margin: 5px 0;">THE JEDAI MASTER</h3>
 
 <img src="https://img.shields.io/badge/🤖%20STATUS%20🤖-ACTIVE%20JEDAI-00FF00?style=for-the-badge&logo=verified&logoColor=black&labelColor=000033" alt="Active Status" height="40"/>
@@ -53,34 +53,34 @@
 <td width="5%"></td>
 
 <!-- Right Side - License Details -->
-<td width="60%" bgcolor="#0f1419" style="padding: 30px; border-radius: 10px; border: 2px solid #00FF00;">
+<td width="65%" bgcolor="#0f1419" style="padding: 40px; border-radius: 10px; border: 2px solid #00FF00;">
 
-<h3 style="color: #00FF00; margin-bottom: 25px;">📋 DEVELOPER CREDENTIALS</h3>
+<h3 style="color: #00FF00; margin-bottom: 30px; font-size: 20px;">📋 DEVELOPER CREDENTIALS</h3>
 
-<table width="100%" cellpadding="8" cellspacing="0">
+<table width="100%" cellpadding="12" cellspacing="0">
 <tr>
-<td width="30%" style="color: #FFD700; font-weight: bold;">🆔 License ID:</td>
-<td style="color: #00FF00; font-family: monospace; font-size: 16px;">AI-007-JEDAI</td>
+<td width="25%" style="color: #FFD700; font-weight: bold; font-size: 18px;">🆔 License ID:</td>
+<td style="color: #00FF00; font-family: monospace; font-size: 18px;">AI-007-JEDAI</td>
 </tr>
 <tr>
-<td style="color: #FFD700; font-weight: bold;">👤 Age:</td>
-<td style="color: #00FF00; font-size: 16px;">22 Years</td>
+<td style="color: #FFD700; font-weight: bold; font-size: 18px;">👤 Age:</td>
+<td style="color: #00FF00; font-size: 18px;">22 Years</td>
 </tr>
 <tr>
-<td style="color: #FFD700; font-weight: bold;">🎓 Education:</td>
-<td style="color: #00FF00; font-size: 16px;">Post Graduate</td>
+<td style="color: #FFD700; font-weight: bold; font-size: 18px;">🎓 Education:</td>
+<td style="color: #00FF00; font-size: 18px;">Post Graduate</td>
 </tr>
 <tr>
-<td style="color: #FFD700; font-weight: bold;">🤖 Speciality:</td>
-<td style="color: #00FF00; font-size: 16px;">Full-Stack AI Specialist</td>
+<td style="color: #FFD700; font-weight: bold; font-size: 18px;">🤖 Speciality:</td>
+<td style="color: #00FF00; font-size: 18px;">Full-Stack AI Specialist</td>
 </tr>
 <tr>
-<td style="color: #FFD700; font-weight: bold;">⚡ Level:</td>
-<td style="color: #00FF00; font-size: 16px;">JedAI Master</td>
+<td style="color: #FFD700; font-weight: bold; font-size: 18px;">⚡ Level:</td>
+<td style="color: #00FF00; font-size: 18px;">JedAI Master</td>
 </tr>
 <tr>
-<td style="color: #FFD700; font-weight: bold;">🌍 Base:</td>
-<td style="color: #00FF00; font-size: 16px;">India</td>
+<td style="color: #FFD700; font-weight: bold; font-size: 18px;">🌍 Base:</td>
+<td style="color: #00FF00; font-size: 18px;">India</td>
 </tr>
 </table>
 
@@ -98,14 +98,13 @@
 
 <!-- AI JedAI Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🤖%20MR.%20AI-NCREDIBLE%20🤖-THE%20JEDAI-00FF00?style=for-the-badge&logo=robot&logoColor=black&labelColor=000000" alt="Mr. AI-ncredible" height="40"/>
   <img src="https://img.shields.io/badge/⚡%20FULL%20STACK%20⚡-JEDAI%20MASTER-FFD700?style=for-the-badge&logo=lightning&logoColor=black&labelColor=8B0000" alt="JedAI Master" height="40"/>
   <img src="https://img.shields.io/badge/🌟%20AI%20FORCE%20🌟-UNLIMITED-D4AF37?style=for-the-badge&logo=star&logoColor=black&labelColor=000000" alt="AI Force" height="40"/>
 </p>
 
 <p align="center">
   <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20Mr.%20AI-ncredible%20The%20JedAI;⚡%20Full%20Stack%20JedAI%20Master;🌟%20AI-Powered%20Web%20Applications;🚀%20Firebase%20%26%20Cloud%20Mastery;🔮%20Machine%20Learning%20Integration;🌟%20The%20Force%20is%20Strong%20with%20Code&font=Fira%20Code&center=true&width=600&height=45&color=00FF00&vCenter=true&pause=1200&size=20&background=000000" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20Dev%20Agnihotri%20The%20JedAI;⚡%20Full%20Stack%20JedAI%20Master;🌟%20AI-Powered%20Web%20Applications;🚀%20Firebase%20%26%20Cloud%20Mastery;🔮%20Machine%20Learning%20Integration;🌟%20The%20Force%20is%20Strong%20with%20Code&font=Fira%20Code&center=true&width=600&height=45&color=00FF00&vCenter=true&pause=1200&size=20&background=000000" alt="Dev Agnihotri Skills" /></a>
 </p>
 
 <!-- Social Network (Secret Communication Channels) -->
