@@ -7,9 +7,15 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20CLASSIFIED:%20AI%20JEDAI%20🤖;💻%20WEB%20DEVELOPER%20SPECIALIST;🚀%20FULL%20STACK%20ENGINEER;🤖%20AI%20OPERATIONS%20SPECIALIST;🌟%20MACHINE%20LEARNING%20EXPERT;🔮%20FIREBASE%20CLOUD%20MASTER;⚡%20REACT%20%26%20NEXT.JS%20NINJA;💎%20DATABASE%20ARCHITECT;🎯%20PROBLEM%20SOLVING%20EXPERT;🌟%20The%20Force%20Awakens&font=Consolas&center=true&width=700&height=80&color=00FF00&vCenter=true&pause=1000&size=24&background=000000" alt="Dev Agnihotri - Developer Specialist" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=700&height=80&lines=🤖+CLASSIFIED:+AI+JEDAI+🤖;💻+WEB+DEVELOPER+SPECIALIST;🚀+FULL+STACK+ENGINEER;🤖+AI+OPERATIONS+SPECIALIST;🌟+MACHINE+LEARNING+EXPERT" alt="Dev Agnihotri - Developer Specialist" />
 </p>
+
+<!-- Fallback: Static Beautiful Badges if typing animation doesn't work -->
+<div align="center" style="margin: 20px 0;">
+  <img src="https://img.shields.io/badge/🤖_CLASSIFIED-AI_JEDAI-00FF00?style=for-the-badge&logo=robot&logoColor=black&labelColor=000000" alt="AI JedAI" height="35"/>
+  <img src="https://img.shields.io/badge/💻_DEVELOPER-SPECIALIST-00FF00?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" alt="Developer" height="35"/>
+  <img src="https://img.shields.io/badge/🚀_FULL_STACK-ENGINEER-00FF00?style=for-the-badge&logo=rocket&logoColor=black&labelColor=000000" alt="Full Stack" height="35"/>
+</div>
 
 <div align="center">
   
@@ -24,9 +30,15 @@
 
 <!-- Beautiful Flashing Specialties Animation -->
 <p align="center">
-  <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=💻%20WEB%20DEVELOPER%20SPECIALIST;🤖%20AI%20OPERATIONS%20SPECIALIST;⚡%20FULL%20STACK%20ENGINEER;🌟%20MACHINE%20LEARNING%20EXPERT;🚀%20FIREBASE%20CLOUD%20MASTER;🔮%20REACT%20%26%20NEXT.JS%20NINJA;💎%20DATABASE%20ARCHITECT;🎯%20PROBLEM%20SOLVING%20EXPERT&font=Fira%20Code&center=true&width=600&height=50&color=00FF00&vCenter=true&pause=1500&size=22&background=000000" alt="Dev Specialties" /></a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=00FF00&center=true&vCenter=true&width=600&height=50&lines=💻+WEB+DEVELOPER+SPECIALIST;🤖+AI+OPERATIONS+SPECIALIST;⚡+FULL+STACK+ENGINEER;🌟+MACHINE+LEARNING+EXPERT" alt="Dev Specialties" />
 </p>
+
+<!-- Fallback: Additional Static Specialties if typing animation doesn't work -->
+<div align="center" style="margin: 15px 0;">
+  <img src="https://img.shields.io/badge/🔮_FIREBASE-CLOUD_MASTER-00FF00?style=flat-square&logoColor=black&labelColor=000000" alt="Firebase" height="28"/>
+  <img src="https://img.shields.io/badge/⚡_REACT_&_NEXT.JS-NINJA-00FF00?style=flat-square&logoColor=black&labelColor=000000" alt="React NextJS" height="28"/>
+  <img src="https://img.shields.io/badge/💎_DATABASE-ARCHITECT-00FF00?style=flat-square&logoColor=black&labelColor=000000" alt="Database" height="28"/>
+</div>
 
 <!-- AI Developer License Card - Landscape Layout -->
 <div align="center">
