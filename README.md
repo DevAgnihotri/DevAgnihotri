@@ -1,5 +1,11 @@
 <!-- SECRET AGENT PROFILE: CLASSIFIED -->
 <!-- CASINO ROYALE DOSSIER -->
+
+<!-- Hero Image -->
+<div align="center">
+  <img src="./img/front.jpg" alt="Casino Royale Operations" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
+</div>
+
 <p align="center">
   <a href="https://github.com/DevAgnihotri">
     <img src="https://readme-typing-svg.demolab.com/?lines=CLASSIFIED:%20AGENT%20007;Casino%20Royale%20Operations;Web%20Development%20Specialist;AI%20Intelligence%20Operative;Firebase%20Cloud%20Operations;License%20to%20Code&font=Consolas&center=true&width=600&height=80&color=D4AF37&vCenter=true&pause=1000&size=24&background=000000" alt="Agent 007 - Dev Agnihotri" /></a>
@@ -7,33 +13,26 @@
 
 <div align="center">
   
-### 🎰 **AGENT PROFILE: DEV AGNIHOTRI** 🎰
-**Classification: TOP SECRET**  
-**Codename: 007**  
-**Mission: Casino Royale Operations**  
-**Specialization: Web Development & AI Systems**  
-**🃏 High Stakes Technology 🃏**
+### 🎰 **DEVELOPER PROFILE: DEV AGNIHOTRI** 🎰
+**Status: Active Developer**  
+**Specialty: Full-Stack Web Development**  
+**Focus: Modern Web Apps & AI Integration**  
+**Approach: Fast. Precise. Professional.**  
+**🃏 High-Performance Solutions 🃏**
 
 </div>
 
-<!-- Mission Badge -->
+<!-- Developer Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/🎰%20CASINO%20ROYALE%20🎰-ACTIVE-D4AF37?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="Casino Royale Status"/>
-  <img src="https://img.shields.io/badge/🃏%20HIGH%20STAKES%20🃏-CLEARANCE-8B0000?style=for-the-badge&logo=shield&logoColor=white&labelColor=000000" alt="Security Clearance"/>
-  <img src="https://img.shields.io/badge/🍸%20LICENSE%20TO%20CODE%20🍸-GRANTED-FFD700?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" alt="License to Code"/>
+  <img src="https://img.shields.io/badge/🎰%20CASINO%20ROYALE%20🎰-DEVELOPER-D4AF37?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="Casino Royale Developer"/>
+  <img src="https://img.shields.io/badge/🃏%20FULL%20STACK%20🃏-SPECIALIST-8B0000?style=for-the-badge&logo=stack-overflow&logoColor=white&labelColor=000000" alt="Full Stack Specialist"/>
+  <img src="https://img.shields.io/badge/🍸%20LICENSE%20TO%20CODE%20🍸-ACTIVE-FFD700?style=for-the-badge&logo=code&logoColor=black&labelColor=000000" alt="License to Code"/>
 </p>
 
-<!-- Casino Operations Gallery -->
-<div align="center" style="margin: 20px 0;">
-  <img src="./img/007 card.jfif" alt="Agent Card" height="80" style="margin: 0 10px; border-radius: 8px;"/>
-  <img src="./img/card1.jfif" alt="Casino Card 1" height="80" style="margin: 0 10px; border-radius: 8px;"/>
-  <img src="./img/card2.jfif" alt="Casino Card 2" height="80" style="margin: 0 10px; border-radius: 8px;"/>
-  <img src="./img/card3.jfif" alt="Casino Card 3" height="80" style="margin: 0 10px; border-radius: 8px;"/>
-  <img src="./img/poster.jfif" alt="Mission Poster" height="80" style="margin: 0 10px; border-radius: 8px;"/>
-</div>
 
-<p align="center">  <!-- Typing SVG for James Bond Casino Royale style -->  <a href="https://github.com/DevAgnihotri">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🎰%20Casino%20Royale%20Developer;🃏%20High%20Stakes%20Technology;🍸%20Clean%20Code%20Operations;🎲%20Firebase%20Cloud%20Systems;🤖%20AI%20Intelligence%20Network;♠️%20Precision%20Engineering&font=Fira%20Code&center=true&width=500&height=45&color=D4AF37&vCenter=true&pause=1200&size=20&background=1a1a1a" /></a>
+<p align="center">
+  <a href="https://github.com/DevAgnihotri">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🎰%20Casino%20Royale%20Developer;🃏%20Full%20Stack%20Specialist;🍸%20Modern%20Web%20Applications;🎲%20Firebase%20%26%20Cloud%20Solutions;🤖%20AI%20Integration%20Expert;♠️%20Clean%20Code%20Professional&font=Fira%20Code&center=true&width=500&height=45&color=D4AF37&vCenter=true&pause=1200&size=20&background=1a1a1a" /></a>
 </p>
 
 <!-- Social Network (Secret Communication Channels) -->
@@ -52,7 +51,7 @@
 
 <!-- Web Technology Stack -->
 <p align="center">
-  <strong>🌐 DEPLOYED WEB TECHNOLOGY ARSENAL 🌐</strong><br/>
+  <strong>🌐 CORE TECHNOLOGY STACK 🌐</strong><br/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
@@ -65,13 +64,13 @@
 
 <br/>
 
-<!-- Intelligence Stats -->
+<!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/DevAgnihotri?tab=repositories&sort=stargazers">
-    <img alt="Total Missions Completed" title="Total GitHub Projects" src="https://custom-icon-badges.demolab.com/github/stars/DevAgnihotri?color=D4AF37&style=for-the-badge&labelColor=000000&logo=star&label=MISSIONS%20STARRED"/></a>
+    <img alt="GitHub Stars" title="Total GitHub Stars" src="https://custom-icon-badges.demolab.com/github/stars/DevAgnihotri?color=D4AF37&style=for-the-badge&labelColor=000000&logo=star&label=STARS%20EARNED"/></a>
   <a href="https://github.com/DevAgnihotri?tab=repositories">
     <img alt="Total Repositories" title="GitHub Repositories" src="https://custom-icon-badges.demolab.com/badge/dynamic/json?url=https://api.github.com/users/DevAgnihotri&query=$.public_repos&color=8B0000&labelColor=000000&style=for-the-badge&logo=repo&label=REPOSITORIES&logoColor=white"/></a>
-  <img alt="Classified Intel" title="Profile Views (Classified)" src="https://img.shields.io/badge/CLASSIFIED-INTEL-1F1F1F?style=for-the-badge&logo=eye&logoColor=D4AF37&labelColor=000000" alt="profile views"/>
+  <img alt="Profile Views" title="Profile Views" src="https://img.shields.io/badge/PROFILE-VIEWS-1F1F1F?style=for-the-badge&logo=eye&logoColor=D4AF37&labelColor=000000" alt="profile views"/>
 </p>
 
 <br/>
@@ -148,7 +147,7 @@
 </details>
 
 <details open> 
-  <summary><h2>🎮 Covert Recreation & Entertainment Division</h2></summary>
+  <summary><h2>🎮 Projects & Entertainment Portfolio</h2></summary>
 
   <p align="left">
     <a href="https://github.com/DevAgnihotri/MJ"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=MJ&theme=dark&bg_color=000000&title_color=D4AF37&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="MJ Project"></a>
@@ -161,42 +160,39 @@
     <a href="https://github.com/DevAgnihotri/DevZone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=DevZone&theme=dark&bg_color=000000&title_color=D4AF37&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="DevZone"></a>
     <a href="https://github.com/DevAgnihotri/PrimeMinister"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=PrimeMinister&theme=dark&bg_color=000000&title_color=D4AF37&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="PrimeMinister"></a>
     <a href="https://github.com/DevAgnihotri/Yavin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Yavin&theme=dark&bg_color=000000&title_color=D4AF37&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Yavin"></a>
-  </p>
-
-  <p align="center">
-    <strong>🎯 LIVE ENTERTAINMENT OPERATIONS 🎯</strong><br/>
-    <a href="https://devagnihotri.github.io/MJ/"><img src="https://custom-icon-badges.demolab.com/badge/-MJ%20Live-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white" alt="MJ Live"/></a>
-    &#8287;
-    <a href="https://devagnihotri.github.io/FunZone/"><img src="https://custom-icon-badges.demolab.com/badge/-FunZone%20Live-4ECDC4?style=for-the-badge&logo=joystick&logoColor=white" alt="FunZone Live"/></a>
-    &#8287;
-    <a href="https://devagnihotri.github.io/BatUnion/"><img src="https://custom-icon-badges.demolab.com/badge/-BatUnion%20Live-FFE66D?style=for-the-badge&logo=bat&logoColor=black" alt="BatUnion Live"/></a>
-    <br/>
-    <a href="https://devagnihotri.github.io/Vader/"><img src="https://custom-icon-badges.demolab.com/badge/-Vader%20Live-8B0000?style=for-the-badge&logo=star&logoColor=white" alt="Vader Live"/></a>
-    &#8287;
-    <a href="https://devagnihotri.github.io/Tarkin/"><img src="https://custom-icon-badges.demolab.com/badge/-Tarkin%20Live-696969?style=for-the-badge&logo=shield&logoColor=white" alt="Tarkin Live"/></a>
-    &#8287;
-    <a href="https://devagnihotri.github.io/KyloRen/"><img src="https://custom-icon-badges.demolab.com/badge/-KyloRen%20Live-FF4500?style=for-the-badge&logo=lightsaber&logoColor=white" alt="KyloRen Live"/></a>
-    <br/>
-    <a href="https://devagnihotri.github.io/Griev/"><img src="https://custom-icon-badges.demolab.com/badge/-Griev%20Live-32CD32?style=for-the-badge&logo=robot&logoColor=black" alt="Griev Live"/></a>
-    &#8287;
-    <a href="https://devagnihotri.github.io/DevZone/"><img src="https://custom-icon-badges.demolab.com/badge/-DevZone%20Live-9370DB?style=for-the-badge&logo=code&logoColor=white" alt="DevZone Live"/></a>
-    &#8287;
-    <a href="https://devagnihotri.github.io/PrimeMinister/"><img src="https://custom-icon-badges.demolab.com/badge/-PM%20Live-DC143C?style=for-the-badge&logo=crown&logoColor=white" alt="PrimeMinister Live"/></a>
-    <br/>
-    <a href="https://devagnihotri.github.io/Yavin/"><img src="https://custom-icon-badges.demolab.com/badge/-Yavin%20Live-1E90FF?style=for-the-badge&logo=planet&logoColor=white" alt="Yavin Live"/></a>
-  </p>
+  </p>  <!-- Live Entertainment Operations - Horizontal Layout -->
+  <div align="center" style="margin: 20px 0;">
+    <strong>🎯 LIVE ENTERTAINMENT OPERATIONS 🎯</strong><br/><br/>
+    
+    <!-- Top Row -->
+    <div style="margin: 10px 0;">
+      <a href="https://devagnihotri.github.io/MJ/"><img src="https://custom-icon-badges.demolab.com/badge/-🎮%20MJ%20Live-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=8B0000" alt="MJ Live" height="35" style="margin: 0 8px;"/></a>
+      <a href="https://devagnihotri.github.io/FunZone/"><img src="https://custom-icon-badges.demolab.com/badge/-🎯%20FunZone%20Live-4ECDC4?style=for-the-badge&logo=joystick&logoColor=white&labelColor=2F4F4F" alt="FunZone Live" height="35" style="margin: 0 8px;"/></a>
+      <a href="https://devagnihotri.github.io/BatUnion/"><img src="https://custom-icon-badges.demolab.com/badge/-🦇%20BatUnion%20Live-FFE66D?style=for-the-badge&logo=bat&logoColor=black&labelColor=DAA520" alt="BatUnion Live" height="35" style="margin: 0 8px;"/></a>
+      <a href="https://devagnihotri.github.io/Vader/"><img src="https://custom-icon-badges.demolab.com/badge/-⭐%20Vader%20Live-8B0000?style=for-the-badge&logo=star&logoColor=white&labelColor=000000" alt="Vader Live" height="35" style="margin: 0 8px;"/></a>
+      <a href="https://devagnihotri.github.io/Tarkin/"><img src="https://custom-icon-badges.demolab.com/badge/-🛡️%20Tarkin%20Live-696969?style=for-the-badge&logo=shield&logoColor=white&labelColor=2F2F2F" alt="Tarkin Live" height="35" style="margin: 0 8px;"/></a>
+    </div>
+    
+    <!-- Bottom Row -->
+    <div style="margin: 10px 0;">
+      <a href="https://devagnihotri.github.io/KyloRen/"><img src="https://custom-icon-badges.demolab.com/badge/-⚔️%20KyloRen%20Live-FF4500?style=for-the-badge&logo=lightsaber&logoColor=white&labelColor=8B0000" alt="KyloRen Live" height="35" style="margin: 0 8px;"/></a>
+      <a href="https://devagnihotri.github.io/Griev/"><img src="https://custom-icon-badges.demolab.com/badge/-🤖%20Griev%20Live-32CD32?style=for-the-badge&logo=robot&logoColor=black&labelColor=228B22" alt="Griev Live" height="35" style="margin: 0 8px;"/></a>
+      <a href="https://devagnihotri.github.io/DevZone/"><img src="https://custom-icon-badges.demolab.com/badge/-💻%20DevZone%20Live-9370DB?style=for-the-badge&logo=code&logoColor=white&labelColor=4B0082" alt="DevZone Live" height="35" style="margin: 0 8px;"/></a>
+      <a href="https://devagnihotri.github.io/PrimeMinister/"><img src="https://custom-icon-badges.demolab.com/badge/-👑%20PM%20Live-DC143C?style=for-the-badge&logo=crown&logoColor=white&labelColor=8B0000" alt="PrimeMinister Live" height="35" style="margin: 0 8px;"/></a>
+      <a href="https://devagnihotri.github.io/Yavin/"><img src="https://custom-icon-badges.demolab.com/badge/-🌍%20Yavin%20Live-1E90FF?style=for-the-badge&logo=planet&logoColor=white&labelColor=191970" alt="Yavin Live" height="35" style="margin: 0 8px;"/></a>
+    </div>
+  </div>
 </details>
 
 <details open> 
-  <summary><h2>🤝 Allied Operations (Contributions)</h2></summary>
+  <summary><h2>🤝 Open Source & Community Projects</h2></summary>
   <p align="left">
     <a href="https://github.com/DevAgnihotri/Open-Source-Contributions"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Open-Source-Contributions&theme=dark&bg_color=000000&title_color=D4AF37&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Open Source Contributions"></a>
     <a href="https://github.com/DevAgnihotri/Community-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Community-Projects&theme=dark&bg_color=000000&title_color=D4AF37&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Community Projects"></a>
   </p>
-
   <p align="center">
-    <strong>🌟 COLLABORATIVE INTELLIGENCE OPERATIONS 🌟</strong><br/>
-    <em>Building the future through collaborative code missions</em>
+    <strong>🌟 COLLABORATIVE DEVELOPMENT PROJECTS 🌟</strong><br/>
+    <em>Building innovative solutions through community collaboration</em>
   </p>
 
 <a href="https://github.com/DevAgnihotri?tab=repositories"><img alt="All Repositories" title="View All Public Repositories" src="https://custom-icon-badges.demolab.com/badge/-View%20All%20Repositories-000000?style=for-the-badge&logoColor=D4AF37&logo=git-branch&labelColor=8B0000"/></a>
@@ -204,7 +200,19 @@
 </details>
 
 <details open> 
-  <summary><h2>🛠️ Agent's Arsenal (Technical Skills)</h2></summary>
+  <summary><h2>🛠️ Technical Skills & Expertise</h2></summary>
+
+  <!-- Technology Logos Display -->
+  <div align="center" style="margin: 20px 0;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="60" height="60" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin: 0 15px;"/>
+  </div>
 
   <h3>💻 Programming Languages & Markup</h3>
   <p>
@@ -269,22 +277,34 @@
       <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-000000.svg?logo=linux&logoColor=FCC624&style=for-the-badge"></a>
       <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-000000.svg?logo=figma&logoColor=F24E1E&style=for-the-badge"></a>
       <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-000000.svg?logo=Jupyter&logoColor=F37626&style=for-the-badge"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge"></a>
-  </p>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge"></a>  </p>
 </details>
 
-<details> 
-  <summary><h2>📊 Mission Statistics & Intelligence Report</h2></summary>
+<!-- Casino Operations Gallery -->
+<div align="center" style="margin: 30px 0;">
+  <h2>🎰 Casino Royale Operations Gallery 🎰</h2>
+  <p><em>Intelligence imagery from high-stakes operations</em></p>
+  <br/>
+  <img src="./img/007 card.jfif" alt="Agent 007 Card" height="120" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card1.jfif" alt="Casino Card 1" height="120" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card2.jfif" alt="Casino Card 2" height="120" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/card3.jfif" alt="Casino Card 3" height="120" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <img src="./img/poster.jfif" alt="Mission Poster" height="120" style="margin: 0 15px; border-radius: 10px; border: 2px solid #D4AF37;"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/🎯%20HIGH%20STAKES%20OPERATIONS%20🎯-CLASSIFIED-D4AF37?style=for-the-badge&logo=target&logoColor=black&labelColor=000000" alt="High Stakes Operations"/>
+</div>
 
-  <h3>🔥 Operational Streak</h3>
+<details> 
+  <summary><h2>📊 GitHub Statistics & Development Metrics</h2></summary>
+  <h3>🔥 Development Streak</h3>
 
   <p align="center">
     <a href="https://git.io/streak-stats">
-      <img title="🔥 Agent's Coding Streak" alt="Dev Agnihotri's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DevAgnihotri&theme=black-ice&hide_border=true&stroke=D4AF37&ring=FFD700&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C0C0C0&currStreakNum=FFD700&sideNums=C0C0C0&background=000000"/>
+      <img title="🔥 Coding Streak Stats" alt="Dev Agnihotri's streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=DevAgnihotri&theme=black-ice&hide_border=true&stroke=D4AF37&ring=FFD700&fire=D4AF37&currStreakLabel=D4AF37&sideLabels=C0C0C0&currStreakNum=FFD700&sideNums=C0C0C0&background=000000"/>
     </a>
   </p>
 
-  <h3>📈 Agent Performance Metrics</h3>
+  <h3>📈 GitHub Performance Metrics</h3>
 
   <p align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
