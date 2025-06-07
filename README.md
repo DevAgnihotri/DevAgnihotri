@@ -1,6 +1,10 @@
 <!-- SECRET AGENT PROFILE: CLASSIFIED -->
 <!-- CASINO ROYALE DOSSIER -->
 
+<!-- ====================================================================== -->
+<!-- SECTION 1: HERO SECTION & PROFILE INTRODUCTION -->
+<!-- ====================================================================== -->
+
 <!-- Hero Image -->
 <div align="center">
   <img src="./img/front.jpg" alt="Casino Royale Operations" width="100%" style="border-radius: 10px; margin-bottom: 20px;"/>
@@ -36,9 +40,12 @@
 <!-- Fallback: Additional Static Specialties if typing animation doesn't work -->
 <div align="center" style="margin: 15px 0;">
   <img src="https://img.shields.io/badge/🔮_FIREBASE-CLOUD_MASTER-FFD700?style=flat-square&logoColor=black&labelColor=000000" alt="Firebase" height="28"/>
-  <img src="https://img.shields.io/badge/⚡_REACT_&_NEXT.JS-NINJA-FFD700?style=flat-square&logoColor=black&labelColor=000000" alt="React NextJS" height="28"/>
-  <img src="https://img.shields.io/badge/💎_DATABASE-ARCHITECT-FFD700?style=flat-square&logoColor=black&labelColor=000000" alt="Database" height="28"/>
+  <img src="https://img.shields.io/badge/⚡_REACT_&_NEXT.JS-NINJA-FFD700?style=flat-square&logoColor=black&labelColor=000000" alt="React NextJS" height="28"/>  <img src="https://img.shields.io/badge/💎_DATABASE-ARCHITECT-FFD700?style=flat-square&logoColor=black&labelColor=000000" alt="Database" height="28"/>
 </div>
+
+<!-- ====================================================================== -->
+<!-- SECTION 2: AI DEVELOPER LICENSE CARD -->
+<!-- ====================================================================== -->
 
 <!-- AI Developer License Card - Landscape Layout -->
 <div align="center">
@@ -93,13 +100,15 @@
 
             </td>
           </tr>
-        </table>
-
-      </td>
+        </table>      </td>
     </tr>
   </table>
 
 </div>
+
+<!-- ====================================================================== -->
+<!-- SECTION 3: BADGES & SOCIAL LINKS -->
+<!-- ====================================================================== -->
 
 <div align="center">
 
@@ -153,11 +162,14 @@
 <br/>
 
 <!-- MI6 Badge -->
-<p align="center">
-  <img src="https://img.shields.io/badge/🎖️%20MI6%20CERTIFIED%20DEVELOPER%20🎖️-FFD700?style=for-the-badge&logo=medal&logoColor=black&labelColor=000000" alt="MI6 Certified"/>
+<p align="center">  <img src="https://img.shields.io/badge/🎖️%20MI6%20CERTIFIED%20DEVELOPER%20🎖️-FFD700?style=for-the-badge&logo=medal&logoColor=black&labelColor=000000" alt="MI6 Certified"/>
 </p>
 
-<details open> 
+<!-- ====================================================================== -->
+<!-- SECTION 4: INTELLIGENCE ACADEMY & TRAINING DIVISION -->
+<!-- ====================================================================== -->
+
+<details open>
   <summary><h2>🏛️ Intelligence Academy & Training Division</h2></summary>
 
   ### 📋 **Training Notes & Academic Credentials**
@@ -216,10 +228,13 @@
   <div align="center" style="margin: 30px 0;">
     <a href="https://github.com/sponsors/DevAgnihotri/">
       <img alt="Support Intelligence Operations" title="Fund Secret Missions" src="https://custom-icon-badges.demolab.com/badge/-Fund%20Secret%20Operations-000000?style=for-the-badge&logoColor=FFD700&logo=heart&labelColor=8B0000"/>
-    </a>
-  </div>
+    </a>  </div>
 
 </details>
+
+<!-- ====================================================================== -->
+<!-- SECTION 5: ACTIVE MISSION PROJECTS -->
+<!-- ====================================================================== -->
 
 <details open> 
   <summary><h2>🎯 Active Mission Projects</h2></summary>
@@ -237,10 +252,13 @@
     &#8287;&#8287;
     <a href="https://devtime-five.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/-DevTime%20Live-FF6B35?style=for-the-badge&logo=clock&logoColor=white" alt="DevTime Live"/></a>
   </p>
-  
-  <a href="https://github.com/DevAgnihotri?tab=repositories&sort=stargazers"><img alt="All Active Missions" title="View All Secret Operations" src="https://custom-icon-badges.demolab.com/badge/-Access%20All%20Mission%20Files-000000?style=for-the-badge&logoColor=FFD700&logo=repo&labelColor=8B0000"/></a>
+    <a href="https://github.com/DevAgnihotri?tab=repositories&sort=stargazers"><img alt="All Active Missions" title="View All Secret Operations" src="https://custom-icon-badges.demolab.com/badge/-Access%20All%20Mission%20Files-000000?style=for-the-badge&logoColor=FFD700&logo=repo&labelColor=8B0000"/></a>
 
 </details>
+
+<!-- ====================================================================== -->
+<!-- SECTION 6: DIGITAL HEADQUARTERS & WEB ASSETS -->
+<!-- ====================================================================== -->
 
 <details open> 
   <summary><h2>🌐 Digital Headquarters & Web Assets</h2></summary>
@@ -257,10 +275,13 @@
     &#8287;&#8287;
     <a href="https://devagnihotri.github.io/DEV/"><img src="https://custom-icon-badges.demolab.com/badge/-Dev%20Portal%20Live-00AA44?style=for-the-badge&logo=code&logoColor=white" alt="Dev Live"/></a>
     &#8287;&#8287;
-    <a href="https://devagnihotri.github.io/Hoth/"><img src="https://custom-icon-badges.demolab.com/badge/-Hoth%20Base%20Live-0099FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Hoth Live"/></a>
-  </p>
+    <a href="https://devagnihotri.github.io/Hoth/"><img src="https://custom-icon-badges.demolab.com/badge/-Hoth%20Base%20Live-0099FF?style=for-the-badge&logo=rocket&logoColor=white" alt="Hoth Live"/></a>  </p>
 
 </details>
+
+<!-- ====================================================================== -->
+<!-- SECTION 7: PROJECTS & ENTERTAINMENT PORTFOLIO -->
+<!-- ====================================================================== -->
 
 <details open> 
   <summary><h2>🎮 Projects & Entertainment Portfolio</h2></summary>
@@ -296,10 +317,13 @@
     <a href="https://devagnihotri.github.io/Griev/"><img src="https://custom-icon-badges.demolab.com/badge/-🤖%20Griev%20Live-32CD32?style=for-the-badge&logo=robot&logoColor=black&labelColor=228B22" alt="Griev Live" height="35"/></a>
     <a href="https://devagnihotri.github.io/DevZone/"><img src="https://custom-icon-badges.demolab.com/badge/-💻%20DevZone%20Live-9370DB?style=for-the-badge&logo=code&logoColor=white&labelColor=4B0082" alt="DevZone Live" height="35"/></a>
     <a href="https://devagnihotri.github.io/PrimeMinister/"><img src="https://custom-icon-badges.demolab.com/badge/-👑%20PM%20Live-DC143C?style=for-the-badge&logo=crown&logoColor=white&labelColor=8B0000" alt="PrimeMinister Live" height="35"/></a>
-    <a href="https://devagnihotri.github.io/Yavin/"><img src="https://custom-icon-badges.demolab.com/badge/-🌍%20Yavin%20Live-1E90FF?style=for-the-badge&logo=planet&logoColor=white&labelColor=191970" alt="Yavin Live" height="35"/></a>
-  </p>
+    <a href="https://devagnihotri.github.io/Yavin/"><img src="https://custom-icon-badges.demolab.com/badge/-🌍%20Yavin%20Live-1E90FF?style=for-the-badge&logo=planet&logoColor=white&labelColor=191970" alt="Yavin Live" height="35"/></a>  </p>
 
 </details>
+
+<!-- ====================================================================== -->
+<!-- SECTION 8: OPEN SOURCE & COMMUNITY PROJECTS -->
+<!-- ====================================================================== -->
 
 <details open> 
     <summary><h2>🤝 Open Source & Community Projects</h2></summary>    <p align="left">
@@ -316,6 +340,10 @@
 
 </details>
 
+<!-- ====================================================================== -->
+<!-- SECTION 9: TECHNICAL SKILLS & EXPERTISE -->
+<!-- ====================================================================== -->
+
 <details open> 
   <summary><h2>🛠️ Technical Skills & Expertise</h2></summary>
 
@@ -330,73 +358,73 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" style="margin: 0 15px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin: 0 15px;"/>
   </div>
-
   <h3>💻 Programming Languages & Markup</h3>
   <p>
-      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-000000.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge"></a>
-      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-000000.svg?logo=typescript&logoColor=3178C6&style=for-the-badge"></a>
-      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-000000.svg?logo=python&logoColor=3776AB&style=for-the-badge"></a>
-      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML-000000.svg?logo=html5&logoColor=E34F26&style=for-the-badge"></a>
-      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS-000000.svg?logo=css3&logoColor=1572B6&style=for-the-badge"></a>
-      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-000000.svg?logo=node.js&logoColor=339933&style=for-the-badge"></a>
-      <a href="#"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-000000.svg?logo=database&logoColor=FFD700&style=for-the-badge"></a>
+      <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black&style=for-the-badge"></a>
+      <a href="#"><img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6.svg?logo=typescript&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-3776AB.svg?logo=python&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?logo=html5&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?logo=css3&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933.svg?logo=node.js&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-336791.svg?logo=postgresql&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge"></a>
-  </p>
-  <h3>🎯 Specialized Equipment & Frameworks</h3>
+  </p>  <h3>🎯 Specialized Equipment & Frameworks</h3>
 
   <p>
-      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-000000.svg?logo=react&logoColor=61DAFB&style=for-the-badge"></a>
+      <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black&style=for-the-badge"></a>
       <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-000000.svg?logo=express&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=FFCA28&style=for-the-badge"></a>
-      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-000000.svg?logo=TensorFlow&logoColor=FF6F00&style=for-the-badge"></a>
-      <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-000000.svg?logo=PyTorch&logoColor=EE4C2C&style=for-the-badge"></a>
-      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-000000.svg?logo=fastapi&logoColor=009688&style=for-the-badge"></a>
+      <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge"></a>
+      <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=PyTorch&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-000000.svg?logo=bootstrap&logoColor=7952B3&style=for-the-badge"></a>
-      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-000000.svg?logo=tailwind-css&logoColor=06B6D4&style=for-the-badge"></a>
-  </p>
-  <h3>🤖 AI Agents & Intelligence Systems</h3>
+      <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"></a>
+  </p>  <h3>🤖 AI Agents & Intelligence Systems</h3>
 
   <p>
-      <a href="#"><img alt="OpenAI GPT" src="https://img.shields.io/badge/OpenAI%20GPT-000000.svg?logo=openai&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Claude AI" src="https://img.shields.io/badge/Claude%20AI-000000.svg?logo=anthropic&logoColor=D97706&style=for-the-badge"></a>
-      <a href="#"><img alt="Gemini AI" src="https://img.shields.io/badge/Gemini%20AI-000000.svg?logo=google&logoColor=4285F4&style=for-the-badge"></a>
-      <a href="#"><img alt="Langchain" src="https://img.shields.io/badge/Langchain-000000.svg?logo=chainlink&logoColor=375BD2&style=for-the-badge"></a>
-      <a href="#"><img alt="AutoGen" src="https://img.shields.io/badge/AutoGen-000000.svg?logo=microsoft&logoColor=00BCF2&style=for-the-badge"></a>
-      <a href="#"><img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-000000.svg?logo=robot&logoColor=FF6B6B&style=for-the-badge"></a>      <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-000000.svg?logo=huggingface&logoColor=FFD21E&style=for-the-badge"></a>
-      <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-000000.svg?logo=ollama&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="OpenAI GPT" src="https://img.shields.io/badge/OpenAI%20GPT-412991.svg?logo=openai&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Claude AI" src="https://img.shields.io/badge/Claude%20AI-D97706.svg?logo=anthropic&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Gemini AI" src="https://img.shields.io/badge/Gemini%20AI-4285F4.svg?logo=google&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Langchain" src="https://img.shields.io/badge/Langchain-375BD2.svg?logo=chainlink&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="AutoGen" src="https://img.shields.io/badge/AutoGen-00BCF2.svg?logo=microsoft&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="CrewAI" src="https://img.shields.io/badge/CrewAI-FF6B6B.svg?logo=robot&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E.svg?logo=huggingface&logoColor=black&style=for-the-badge"></a>
+      <a href="#"><img alt="Ollama" src="https://img.shields.io/badge/Ollama-1E1E1E.svg?logo=ollama&logoColor=white&style=for-the-badge"></a>
   </p>
-  
-  <h3>🗄️ Intelligence Databases & Cloud Operations</h3>
+    <h3>🗄️ Intelligence Databases & Cloud Operations</h3>
 
   <p>
-      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-000000.svg?logo=firebase&logoColor=FFCA28&style=for-the-badge"></a>
-      <a href="#"><img alt="Firestore" src="https://img.shields.io/badge/Firestore-000000.svg?logo=firebase&logoColor=FFA000&style=for-the-badge"></a>
-      <a href="#"><img alt="Firebase Auth" src="https://img.shields.io/badge/Firebase%20Auth-000000.svg?logo=firebase&logoColor=FF7043&style=for-the-badge"></a>
-      <a href="#"><img alt="Cloud Functions" src="https://img.shields.io/badge/Cloud%20Functions-000000.svg?logo=firebase&logoColor=4285F4&style=for-the-badge"></a>
-      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-000000.svg?logo=mongodb&logoColor=47A248&style=for-the-badge"></a>
-      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-000000.svg?logo=postgresql&logoColor=336791&style=for-the-badge"></a>
-      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-000000.svg?logo=mysql&logoColor=4479A1&style=for-the-badge"></a>
-      <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-000000.svg?logo=redis&logoColor=DC382D&style=for-the-badge"></a>
-      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-000000.svg?logo=amazon-aws&logoColor=FF9900&style=for-the-badge"></a>
-      <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-000000.svg?logo=google-cloud&logoColor=4285F4&style=for-the-badge"></a>
+      <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge"></a>
+      <a href="#"><img alt="Firestore" src="https://img.shields.io/badge/Firestore-FFA000.svg?logo=firebase&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Firebase Auth" src="https://img.shields.io/badge/Firebase%20Auth-FF7043.svg?logo=firebase&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Cloud Functions" src="https://img.shields.io/badge/Cloud%20Functions-4285F4.svg?logo=firebase&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248.svg?logo=mongodb&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791.svg?logo=postgresql&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1.svg?logo=mysql&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D.svg?logo=redis&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="AWS" src="https://img.shields.io/badge/AWS-FF9900.svg?logo=amazon-aws&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Google Cloud" src="https://img.shields.io/badge/Google%20Cloud-4285F4.svg?logo=google-cloud&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000.svg?logo=vercel&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-000000.svg?logo=docker&logoColor=2496ED&style=for-the-badge"></a>
+      <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED.svg?logo=docker&logoColor=white&style=for-the-badge"></a>
   </p>
 
   <h3>🔧 Agent Tools & Equipment</h3>
 
-  <p>
-      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-000000.svg?logo=visual-studio-code&logoColor=007ACC&style=for-the-badge"></a>
-      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-000000.svg?logo=git&logoColor=F05032&style=for-the-badge"></a>
-      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?logo=github&logoColor=white&style=for-the-badge"></a>
-      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-000000.svg?logo=postman&logoColor=FF6C37&style=for-the-badge"></a>
-      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-000000.svg?logo=linux&logoColor=FCC624&style=for-the-badge"></a>      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-000000.svg?logo=figma&logoColor=F24E1E&style=for-the-badge"></a>
-      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-000000.svg?logo=Jupyter&logoColor=F37626&style=for-the-badge"></a>
-      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge"></a>
-  </p>
+  <p>      <a href="#"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Git" src="https://img.shields.io/badge/Git-F05032.svg?logo=git&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?logo=github&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37.svg?logo=postman&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=black&style=for-the-badge"></a>
+      <a href="#"><img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E.svg?logo=figma&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Notion" src="https://img.shields.io/badge/Notion-000000.svg?logo=notion&logoColor=white&style=for-the-badge"></a>  </p>
 </details>
+
+<!-- ====================================================================== -->
+<!-- SECTION 10: CASINO OPERATIONS GALLERY -->
+<!-- ====================================================================== -->
 
 <!-- Casino Operations Gallery -->
 <div align="center" style="margin: 30px 0;">
