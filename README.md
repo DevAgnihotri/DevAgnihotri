@@ -7,7 +7,7 @@
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&height=80&lines=🤖+CLASSIFIED:+AI+JEDAI+🤖;💻+WEB+DEVELOPER+SPECIALIST;🚀+FULL+STACK+ENGINEER;🤖+AI+OPERATIONS+SPECIALIST;🌟+MACHINE+LEARNING+EXPERT" alt="Dev Agnihotri - Developer Specialist" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=700&height=80&lines=🤖+CLASSIFIED:+AI+JEDAI+🤖;💻+WEB+DEVELOPER+SPECIALIST;🚀+FULL+STACK+ENGINEER;🤖+AI+OPERATIONS+SPECIALIST;⚡+TAILWIND+CSS+EXPERT" alt="Dev Agnihotri - Developer Specialist" />
 </p>
 
 <!-- Fallback: Static Beautiful Badges if typing animation doesn't work -->
@@ -22,7 +22,7 @@
 ### 🤖 **DEVELOPER PROFILE: DEV AGNIHOTRI** 🤖
 **Status: Active JedAI Master**  
 **Specialty: AI-Powered Full-Stack Development**  
-**Focus: Machine Learning & Modern Web Mastery**  
+**Focus: Modern Web Technologies & Full-Stack Mastery**  
 **Approach: The Force is Strong with This Code**  
 **🌟 AI-Driven High-Performance Solutions 🌟**
 
@@ -30,7 +30,7 @@
 
 <!-- Beautiful Flashing Specialties Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=💻+WEB+DEVELOPER+SPECIALIST;🤖+AI+OPERATIONS+SPECIALIST;⚡+FULL+STACK+ENGINEER;🌟+MACHINE+LEARNING+EXPERT" alt="Dev Specialties" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2500&pause=1500&color=FFD700&center=true&vCenter=true&width=600&height=50&lines=💻+WEB+DEVELOPER+SPECIALIST;🤖+AI+OPERATIONS+SPECIALIST;⚡+FULL+STACK+ENGINEER;🌟+TAILWIND+CSS+EXPERT" alt="Dev Specialties" />
 </p>
 
 <!-- Fallback: Additional Static Specialties if typing animation doesn't work -->
@@ -43,7 +43,7 @@
 <!-- AI Developer License Card - Landscape Layout -->
 <div align="center">
 
-## 🤖 **AI DEVELOPER LICENSE** 🤖
+## 🤖 **LICENSE TO CODE** 🤖
 
 <table align="center" width="100%" style="margin: 40px auto;">
 <tr>
@@ -136,6 +136,7 @@
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js"/>
 </p>
