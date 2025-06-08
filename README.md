@@ -231,20 +231,23 @@ _Classified learning materials and specialized training programs from elite acad
 <!-- ====================================================================== -->
 
 <details open> 
-  <summary><h2>🎯 Active Mission Projects</h2></summary>
-
-  <!-- Mission Critical Projects -->
+  <summary><h2>🎯 Active Mission Projects</h2></summary>  <!-- Mission Critical Projects -->
   <p align="left">
-    <a href="https://github.com/DevAgnihotri/ALL-IN-A"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=ALL-IN-A&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="ALL-IN-A Project"></a>
-    <a href="https://github.com/DevAgnihotri/devtime"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=devtime&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="DevTime Project"></a>
-    <a href="https://github.com/DevAgnihotri/Image-to-PPT"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Image-to-PPT&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Image to PPT Converter"></a>
+    <a href="https://github.com/DevAgnihotri/ALL-IN-A"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=ALL-IN-A&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="ALL-IN-A Project"></a>
+    <a href="https://github.com/DevAgnihotri/devtime"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=devtime&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="DevTime Project"></a>
+    <a href="https://github.com/DevAgnihotri/Image-to-PPT"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Image-to-PPT&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Image to PPT Converter"></a>
+    <a href="https://github.com/DevAgnihotri/Django-project-pollapp"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Django-project-pollapp&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Django Poll App"></a>
+    <a href="https://github.com/DevAgnihotri/health_census"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=health_census&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Health Census"></a>
+    <a href="https://github.com/DevAgnihotri/SpaceX-Data-Science-Project"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=SpaceX-Data-Science-Project&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="SpaceX Data Science"></a>
+    <a href="https://github.com/DevAgnihotri/Power-Bi"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Power-Bi&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Power BI Project"></a>
   </p>
-
   <p align="center">
     <strong>🔗 LIVE MISSION DEPLOYMENTS 🔗</strong><br/>
     <a href="https://allina8.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/-ALL%20IN%20A%20Live-00C853?style=for-the-badge&logo=rocket&logoColor=white" alt="ALL-IN-A Live"/></a>
     &#8287;&#8287;
     <a href="https://devtime-five.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/-DevTime%20Live-FF6B35?style=for-the-badge&logo=clock&logoColor=white" alt="DevTime Live"/></a>
+    &#8287;&#8287;
+    <a href="https://devagnihotri.github.io/health_census/"><img src="https://custom-icon-badges.demolab.com/badge/-Health%20Census%20Live-4CAF50?style=for-the-badge&logo=medical&logoColor=white" alt="Health Census Live"/></a>
   </p>
     <a href="https://github.com/DevAgnihotri?tab=repositories&sort=stargazers"><img alt="All Active Missions" title="View All Secret Operations" src="https://custom-icon-badges.demolab.com/badge/-Access%20All%20Mission%20Files-000000?style=for-the-badge&logoColor=FFD700&logo=repo&labelColor=8B0000"/></a>
 
@@ -256,11 +259,10 @@ _Classified learning materials and specialized training programs from elite acad
 
 <details open> 
   <summary><h2>🌐 Digital Headquarters & Web Assets</h2></summary>
-
   <p align="left">
-    <a href="https://github.com/DevAgnihotri/WEBSITE"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=WEBSITE&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Main Website"></a>
-    <a href="https://github.com/DevAgnihotri/DEV"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=DEV&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Dev Portfolio"></a>
-    <a href="https://github.com/DevAgnihotri/Hoth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Hoth&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Hoth Project"></a>
+    <a href="https://github.com/DevAgnihotri/WEBSITE"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=WEBSITE&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Main Website"></a>
+    <a href="https://github.com/DevAgnihotri/DEV"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=DEV&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Dev Portfolio"></a>
+    <a href="https://github.com/DevAgnihotri/Hoth"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Hoth&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Hoth Project"></a>
   </p>
 
   <p align="center">
@@ -279,18 +281,18 @@ _Classified learning materials and specialized training programs from elite acad
 
 <details open> 
   <summary><h2>🎮 Projects & Entertainment Portfolio</h2></summary>
-
   <p align="left">
-    <a href="https://github.com/DevAgnihotri/MJ"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=MJ&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="MJ Project"></a>
-    <a href="https://github.com/DevAgnihotri/FunZone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=FunZone&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="FunZone"></a>
-    <a href="https://github.com/DevAgnihotri/BatUnion"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=BatUnion&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="BatUnion"></a>
-    <a href="https://github.com/DevAgnihotri/Vader"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Vader&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Vader Project"></a>
-    <a href="https://github.com/DevAgnihotri/Tarkin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Tarkin&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Tarkin"></a>
-    <a href="https://github.com/DevAgnihotri/KyloRen"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=KyloRen&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="KyloRen"></a>
-    <a href="https://github.com/DevAgnihotri/Griev"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Griev&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Griev"></a>
-    <a href="https://github.com/DevAgnihotri/DevZone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=DevZone&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="DevZone"></a>    <a href="https://github.com/DevAgnihotri/PrimeMinister"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=PrimeMinister&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="PrimeMinister"></a>
-    <a href="https://github.com/DevAgnihotri/Yavin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Yavin&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Yavin"></a>
-    <a href="https://github.com/DevAgnihotri/Candles"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Candles&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Candles"></a>
+    <a href="https://github.com/DevAgnihotri/MJ"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=MJ&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="MJ Project"></a>
+    <a href="https://github.com/DevAgnihotri/FunZone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=FunZone&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="FunZone"></a>
+    <a href="https://github.com/DevAgnihotri/BatUnion"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=BatUnion&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="BatUnion"></a>
+    <a href="https://github.com/DevAgnihotri/Vader"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Vader&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Vader Project"></a>
+    <a href="https://github.com/DevAgnihotri/Tarkin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Tarkin&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Tarkin"></a>
+    <a href="https://github.com/DevAgnihotri/KyloRen"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=KyloRen&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="KyloRen"></a>
+    <a href="https://github.com/DevAgnihotri/Griev"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Griev&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Griev"></a>
+    <a href="https://github.com/DevAgnihotri/DevZone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=DevZone&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="DevZone"></a>
+    <a href="https://github.com/DevAgnihotri/PrimeMinister"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=PrimeMinister&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="PrimeMinister"></a>
+    <a href="https://github.com/DevAgnihotri/Yavin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Yavin&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Yavin"></a>
+    <a href="https://github.com/DevAgnihotri/Candles"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Candles&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Candles"></a>
   </p>
   
   <!-- Live Entertainment Operations - Horizontal Layout -->
@@ -320,10 +322,9 @@ _Classified learning materials and specialized training programs from elite acad
 <!-- ====================================================================== -->
 
 <details open> 
-    <summary><h2>🤝 Open Source & Community Projects</h2></summary>    
-    <p align="left">
-      <a href="https://github.com/DevAgnihotri/Open-Source-Contributions"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Open-Source-Contributions&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Open Source Contributions"></a>
-      <a href="https://github.com/DevAgnihotri/Community-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Community-Projects&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false&show_description=false" alt="Community Projects"></a>
+    <summary><h2>🤝 Open Source & Community Projects</h2></summary>      <p align="left">
+      <a href="https://github.com/DevAgnihotri/Open-Source-Contributions"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Open-Source-Contributions&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Open Source Contributions"></a>
+      <a href="https://github.com/DevAgnihotri/Community-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Community-Projects&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0" alt="Community Projects"></a>
     </p>
     <p align="center">
       <strong>🌟 COLLABORATIVE DEVELOPMENT PROJECTS 🌟</strong><br/>
@@ -339,8 +340,7 @@ _Classified learning materials and specialized training programs from elite acad
 <details open> 
   <summary><h2>🛠️ Technical Skills & Expertise</h2></summary>
   
-  <!-- Technology Logos Display -->
-  <div align="center" style="margin: 20px 0;">
+  <!-- Technology Logos Display -->  <div align="center" style="margin: 20px 0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 0 15px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin: 0 15px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="60" height="60" style="margin: 0 15px;"/>
@@ -348,6 +348,7 @@ _Classified learning materials and specialized training programs from elite acad
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60" style="margin: 0 15px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="60" height="60" style="margin: 0 15px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="60" height="60" style="margin: 0 15px;"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="60" height="60" style="margin: 0 15px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="60" height="60" style="margin: 0 15px;"/>
   </div>
   <h3>💻 Programming Languages & Markup</h3>
@@ -361,10 +362,10 @@ _Classified learning materials and specialized training programs from elite acad
       <a href="#"><img alt="SQL" src="https://img.shields.io/badge/SQL-336791.svg?logo=postgresql&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white&style=for-the-badge"></a>
   </p>  <h3>🎯 Specialized Equipment & Frameworks</h3>
-
   <p>
       <a href="#"><img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?logo=react&logoColor=black&style=for-the-badge"></a>
       <a href="#"><img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000.svg?logo=next.js&logoColor=white&style=for-the-badge"></a>
+      <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django-092E20.svg?logo=django&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59.svg?logo=express&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28.svg?logo=firebase&logoColor=black&style=for-the-badge"></a>
       <a href="#"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=TensorFlow&logoColor=white&style=for-the-badge"></a>
@@ -373,7 +374,7 @@ _Classified learning materials and specialized training programs from elite acad
       <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white&style=for-the-badge"></a>
       <a href="#"><img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?logo=tailwind-css&logoColor=white&style=for-the-badge"></a>
-  </p>  <h3>🤖 AI Agents & Intelligence Systems</h3>
+  </p><h3>🤖 AI Agents & Intelligence Systems</h3>
 
   <p>
       <a href="#"><img alt="OpenAI GPT" src="https://img.shields.io/badge/OpenAI%20GPT-412991.svg?logo=openai&logoColor=white&style=for-the-badge"></a>
