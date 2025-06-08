@@ -288,9 +288,9 @@ _Classified learning materials and specialized training programs from elite acad
     <a href="https://github.com/DevAgnihotri/Tarkin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Tarkin&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Tarkin"></a>
     <a href="https://github.com/DevAgnihotri/KyloRen"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=KyloRen&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="KyloRen"></a>
     <a href="https://github.com/DevAgnihotri/Griev"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Griev&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Griev"></a>
-    <a href="https://github.com/DevAgnihotri/DevZone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=DevZone&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="DevZone"></a>
-    <a href="https://github.com/DevAgnihotri/PrimeMinister"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=PrimeMinister&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="PrimeMinister"></a>
+    <a href="https://github.com/DevAgnihotri/DevZone"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=DevZone&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="DevZone"></a>    <a href="https://github.com/DevAgnihotri/PrimeMinister"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=PrimeMinister&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="PrimeMinister"></a>
     <a href="https://github.com/DevAgnihotri/Yavin"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Yavin&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Yavin"></a>
+    <a href="https://github.com/DevAgnihotri/Candles"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Candles&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=false" alt="Candles"></a>
   </p>
   
   <!-- Live Entertainment Operations - Horizontal Layout -->
@@ -299,7 +299,7 @@ _Classified learning materials and specialized training programs from elite acad
   </p>
   
   <p align="center">
-    <a href="https://devagnihotri.github.io/MJ/"><img src="https://custom-icon-badges.demolab.com/badge/-🎮%20MJ%20Live-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=8B0000" alt="MJ Live" height="35"/></a>
+    <a href="https://mj-nine.vercel.app/"><img src="https://custom-icon-badges.demolab.com/badge/-🎮%20MJ%20Live-FF6B6B?style=for-the-badge&logo=gamepad&logoColor=white&labelColor=8B0000" alt="MJ Live" height="35"/></a>
     <a href="https://devagnihotri.github.io/FunZone/"><img src="https://custom-icon-badges.demolab.com/badge/-🎯%20FunZone%20Live-4ECDC4?style=for-the-badge&logo=joystick&logoColor=white&labelColor=2F4F4F" alt="FunZone Live" height="35"/></a>
     <a href="https://devagnihotri.github.io/BatUnion/"><img src="https://custom-icon-badges.demolab.com/badge/-🦇%20BatUnion%20Live-FFE66D?style=for-the-badge&logo=bat&logoColor=black&labelColor=DAA520" alt="BatUnion Live" height="35"/></a>
     <a href="https://devagnihotri.github.io/Vader/"><img src="https://custom-icon-badges.demolab.com/badge/-⭐%20Vader%20Live-8B0000?style=for-the-badge&logo=star&logoColor=white&labelColor=000000" alt="Vader Live" height="35"/></a>
@@ -309,9 +309,9 @@ _Classified learning materials and specialized training programs from elite acad
   <p align="center">
     <a href="https://devagnihotri.github.io/KyloRen/"><img src="https://custom-icon-badges.demolab.com/badge/-⚔️%20KyloRen%20Live-FF4500?style=for-the-badge&logo=lightsaber&logoColor=white&labelColor=8B0000" alt="KyloRen Live" height="35"/></a>
     <a href="https://devagnihotri.github.io/Griev/"><img src="https://custom-icon-badges.demolab.com/badge/-🤖%20Griev%20Live-32CD32?style=for-the-badge&logo=robot&logoColor=black&labelColor=228B22" alt="Griev Live" height="35"/></a>
-    <a href="https://devagnihotri.github.io/DevZone/"><img src="https://custom-icon-badges.demolab.com/badge/-💻%20DevZone%20Live-9370DB?style=for-the-badge&logo=code&logoColor=white&labelColor=4B0082" alt="DevZone Live" height="35"/></a>
-    <a href="https://devagnihotri.github.io/PrimeMinister/"><img src="https://custom-icon-badges.demolab.com/badge/-👑%20PM%20Live-DC143C?style=for-the-badge&logo=crown&logoColor=white&labelColor=8B0000" alt="PrimeMinister Live" height="35"/></a>
-    <a href="https://devagnihotri.github.io/Yavin/"><img src="https://custom-icon-badges.demolab.com/badge/-🌍%20Yavin%20Live-1E90FF?style=for-the-badge&logo=planet&logoColor=white&labelColor=191970" alt="Yavin Live" height="35"/></a>  </p>
+    <a href="https://devagnihotri.github.io/DevZone/"><img src="https://custom-icon-badges.demolab.com/badge/-💻%20DevZone%20Live-9370DB?style=for-the-badge&logo=code&logoColor=white&labelColor=4B0082" alt="DevZone Live" height="35"/></a>    <a href="https://devagnihotri.github.io/PrimeMinister/"><img src="https://custom-icon-badges.demolab.com/badge/-👑%20PM%20Live-DC143C?style=for-the-badge&logo=crown&logoColor=white&labelColor=8B0000" alt="PrimeMinister Live" height="35"/></a>
+    <a href="https://devagnihotri.github.io/Yavin/"><img src="https://custom-icon-badges.demolab.com/badge/-🌍%20Yavin%20Live-1E90FF?style=for-the-badge&logo=planet&logoColor=white&labelColor=191970" alt="Yavin Live" height="35"/></a>
+    <a href="https://devagnihotri.github.io/Candles/"><img src="https://custom-icon-badges.demolab.com/badge/-🕯️%20Candles%20Live-FF8C00?style=for-the-badge&logo=flame&logoColor=white&labelColor=FF4500" alt="Candles Live" height="35"/></a></p>
 
 </details>
 
