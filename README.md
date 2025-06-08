@@ -339,7 +339,6 @@ _Classified learning materials and specialized training programs from elite acad
 
 <details open> 
   <summary><h2>🛠️ Technical Skills & Expertise</h2></summary>
-  
   <!-- Technology Logos Display -->  <div align="center" style="margin: 20px 0;">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60" style="margin: 0 15px;"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60" style="margin: 0 15px;"/>
