@@ -319,7 +319,7 @@ _Classified learning materials and specialized training programs from elite acad
 <!-- ====================================================================== -->
 
 <details open>    <summary><h2>🤝 Open Source & Community Projects</h2></summary>      <p align="left">
-      <a href="https://github.com/DevAgnihotri/MCA_Sem_2"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Open-Source-Contributions&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=true&cache_seconds=500&t=1749395800" alt="Open Source Contributions"></a>
+      <a href="https://github.com/DevAgnihotri/MCA_Sem_2"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=MCA_Sem_2&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=true&cache_seconds=500&t=1749395800" alt="Open Source Contributions"></a>
       <a href="https://github.com/DevAgnihotri/Community-Projects"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=DevAgnihotri&repo=Community-Projects&theme=dark&bg_color=000000&title_color=FFD700&hide_border=true&icon_color=FFD700&text_color=C0C0C0&show_icons=true&cache_seconds=400&t=1749395801" alt="Community Projects"></a>
     </p>
     <p align="center">
