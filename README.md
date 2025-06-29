@@ -73,7 +73,7 @@
         </tr>
         <tr>
           <td style="font-weight: bold;">🎓 Education:</td>
-          <td><strong>Post Graduate</strong></td>
+          <td><strong>High School</strong></td>
         </tr>
         <tr>
           <td style="font-weight: bold;">🤖 Specialty:</td>
