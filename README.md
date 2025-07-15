@@ -117,7 +117,7 @@
   <strong>🔗 SECURE COMMUNICATION CHANNELS 🔗</strong><br/>
   <a href="https://github.com/DevAgnihotri"><img width="40px" alt="GitHub HQ" title="GitHub Intelligence Hub" src="https://img.icons8.com/fluency/48/000000/github.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/dev-agnihotrii/"><img width="40px" alt="LinkedIn" title="Professional Network" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
+  <a href="https://www.linkedin.comm/in/dev-agnihotrii/"><img width="40px" alt="LinkedIn" title="Professional Network" src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
   <a href="https://discord.com/users/1327510253520293928"><img width="40px" alt="Discord" title="Secret Communications" src="https://img.icons8.com/color/48/000000/discord-logo.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
