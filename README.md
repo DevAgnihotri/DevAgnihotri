@@ -69,11 +69,11 @@
         </tr>
         <tr>
           <td style="font-weight: bold;">👤 Age:</td>
-          <td><strong>22 Years</strong></td>
+          <td><strong>17 Years</strong></td>
         </tr>
         <tr>
           <td style="font-weight: bold;">🎓 Education:</td>
-          <td><strong>Post Graduate</strong></td>
+          <td><strong>High School</strong></td>
         </tr>
         <tr>
           <td style="font-weight: bold;">🤖 Specialty:</td>
@@ -85,7 +85,7 @@
         </tr>
         <tr>
           <td style="font-weight: bold;">🌍 Base:</td>
-          <td><strong>India</strong></td>
+          <td><strong>Cal</strong></td>
         </tr>
         <tr>
           <td style="font-weight: bold;">📅 Status:</td>
